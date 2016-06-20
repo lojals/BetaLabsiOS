@@ -84,10 +84,12 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
+  install_framework "${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework"
   install_framework "Pods-BetaLabs/SwiftyJSON.framework"
   install_framework "Pods-BetaLabs/pop.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
+  install_framework "${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework"
   install_framework "Pods-BetaLabs/SwiftyJSON.framework"
   install_framework "Pods-BetaLabs/pop.framework"
 fi
