@@ -18,6 +18,12 @@ class NewReportViewController: UIViewController {
     @IBOutlet weak var map: MGLMapView!
     @IBOutlet weak var txtTitle: UITextField!
     @IBOutlet weak var txtCategory: UITextField!
+    @IBOutlet weak var pinIndicator: UIImageView!
+    @IBOutlet weak var img1: UIButton!
+    @IBOutlet weak var img2: UIButton!
+    @IBOutlet weak var img3: UIButton!
+    
+    private var model:MapViewModel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -29,6 +35,7 @@ class NewReportViewController: UIViewController {
         self.txtTitle.delegate          = self
         self.txtCategory.tintColor      = UIColor(red:0.82, green:0.25, blue:0.37, alpha:1.00)
         self.txtCategory.delegate       = self
+        model = MapViewModel()
     }
     
     override func viewWillAppear(animated: Bool) {
@@ -73,8 +80,18 @@ class NewReportViewController: UIViewController {
     }
     
     @IBAction func PostReport(sender: AnyObject) {
+        
+        let coor = map.convertPoint(pinIndicator.center, toCoordinateFromView: map)
+        print(coor)
+        //        model.saveReport(txtTitle.text, category: txtCategory.text, lat: coor.latitude, long: coor.longitude, img1: , img2: <#T##NSData#>)
+        
+        let im1 = UIImagePNGRepresentation((img1.imageView?.image)!)
+        let im2 = UIImagePNGRepresentation((img2.imageView?.image)!)
+        
+        model.saveReport(txtTitle.text!, category: txtCategory.text!, lat: coor.latitude, long: coor.longitude, img1: im1!, img2: im2!)
+        
         self.view.endEditing(true)
-        let alert = BadgeAlert(frame: self.view.bounds)
+        let alert      = BadgeAlert(frame: self.view.bounds)
         alert.delegate = self
         self.view.addSubview(alert)
         alert.showAlert()

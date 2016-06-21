@@ -14,6 +14,8 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
     @IBOutlet weak var detailReport: DetailReport!
     @IBOutlet weak var map: MGLMapView!
     @IBOutlet weak var bottomConstraint: NSLayoutConstraint!
+    private var model:MapViewModel!
+    private var reports:[Report]!
     
     var openedMenu:Bool = false {didSet{self.animateMenu()}}
     let location   = CLLocationCoordinate2D(latitude: 21.16514317984627, longitude: -86.82134628295898)
@@ -27,17 +29,38 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
         map.addAnnotation(ann2)
         map.rotateEnabled = false
         map.showsUserLocation = true
+        
+        model = MapViewModel()
+        
+    }
+    
+    func pinsLoaded(notification:NSNotification){
+        let pins = notification.object as! [Report]
+        
+        for p in pins{
+            let ann2        = MGLPointAnnotation()
+            ann2.coordinate = CLLocationCoordinate2D(latitude: Double(p.latitude!), longitude: Double(p.longitude!))
+            map.addAnnotation(ann2)
+        }
     }
     
     override func viewWillAppear(animated: Bool) {
         self.map.minimumZoomLevel = 10
         self.map.setCenterCoordinate(location, zoomLevel: 12, animated: false)
+        
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(self.pinsLoaded), name: "ReportsLoaded", object: nil)
+        
+        model.getPins()
+    }
+    
+    override func viewWillDisappear(animated: Bool) {
+        NSNotificationCenter.defaultCenter().removeObserver(self, name: "ReportsLoaded", object: nil)
     }
     
     func mapView(mapView: MGLMapView, imageForAnnotation annotation: MGLAnnotation) -> MGLAnnotationImage? {
         var annotationImage = mapView.dequeueReusableAnnotationImageWithIdentifier("pisa")
         if annotationImage == nil {
-            var image = UIImage(named: "pin")!
+            var image = UIImage(named: "baches")!
             image = image.imageWithAlignmentRectInsets(UIEdgeInsetsMake(0, 0, image.size.height/2, 0))
             annotationImage = MGLAnnotationImage(image: image, reuseIdentifier: "pisa")
         }
