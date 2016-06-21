@@ -21,7 +21,6 @@ class GenericTabBarViewController: UITabBarController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-    
 }
 
 class TabBarItem: UITabBarItem {

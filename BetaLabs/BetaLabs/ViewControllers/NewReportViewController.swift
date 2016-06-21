@@ -69,6 +69,10 @@ class NewReportViewController: UIViewController {
     
     @IBAction func PostReport(sender: AnyObject) {
         
-        
+        print("Reportando???")
+        let anim = BadgeAnimation()
+        anim.center = self.view.center
+        self.view.addSubview(anim)
+        anim.startAnimating()
     }
 }

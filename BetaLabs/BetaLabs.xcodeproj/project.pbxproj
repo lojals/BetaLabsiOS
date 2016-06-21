@@ -8,21 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		04445DA16D90722482DC2A17 /* Pods_BetaLabs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 312DEE567A2F75948D0951F6 /* Pods_BetaLabs.framework */; };
-		7A1018141D193ECF00A57192 /* primer insignia_00000.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A10179F1D193ECF00A57192 /* primer insignia_00000.png */; };
-		7A1018151D193ECF00A57192 /* primer insignia_00001.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A01D193ECF00A57192 /* primer insignia_00001.png */; };
-		7A1018161D193ECF00A57192 /* primer insignia_00002.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A11D193ECF00A57192 /* primer insignia_00002.png */; };
-		7A1018171D193ECF00A57192 /* primer insignia_00003.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A21D193ECF00A57192 /* primer insignia_00003.png */; };
-		7A1018181D193ECF00A57192 /* primer insignia_00004.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A31D193ECF00A57192 /* primer insignia_00004.png */; };
-		7A1018191D193ECF00A57192 /* primer insignia_00005.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A41D193ECF00A57192 /* primer insignia_00005.png */; };
-		7A10181A1D193ECF00A57192 /* primer insignia_00006.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A51D193ECF00A57192 /* primer insignia_00006.png */; };
-		7A10181B1D193ECF00A57192 /* primer insignia_00007.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A61D193ECF00A57192 /* primer insignia_00007.png */; };
-		7A10181C1D193ECF00A57192 /* primer insignia_00008.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A71D193ECF00A57192 /* primer insignia_00008.png */; };
-		7A10181D1D193ECF00A57192 /* primer insignia_00009.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A81D193ECF00A57192 /* primer insignia_00009.png */; };
-		7A10181E1D193ECF00A57192 /* primer insignia_00010.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017A91D193ECF00A57192 /* primer insignia_00010.png */; };
-		7A10181F1D193ECF00A57192 /* primer insignia_00011.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AA1D193ECF00A57192 /* primer insignia_00011.png */; };
-		7A1018201D193ECF00A57192 /* primer insignia_00012.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AB1D193ECF00A57192 /* primer insignia_00012.png */; };
-		7A1018211D193ECF00A57192 /* primer insignia_00013.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AC1D193ECF00A57192 /* primer insignia_00013.png */; };
-		7A1018221D193ECF00A57192 /* primer insignia_00014.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AD1D193ECF00A57192 /* primer insignia_00014.png */; };
 		7A1018231D193ECF00A57192 /* primer insignia_00015.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AE1D193ECF00A57192 /* primer insignia_00015.png */; };
 		7A1018241D193ECF00A57192 /* primer insignia_00016.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AF1D193ECF00A57192 /* primer insignia_00016.png */; };
 		7A1018251D193ECF00A57192 /* primer insignia_00017.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B01D193ECF00A57192 /* primer insignia_00017.png */; };
@@ -125,6 +110,7 @@
 		7A1018861D193ECF00A57192 /* primer insignia_00114.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018111D193ECF00A57192 /* primer insignia_00114.png */; };
 		7A1018871D193ECF00A57192 /* primer insignia_00115.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018121D193ECF00A57192 /* primer insignia_00115.png */; };
 		7A1018881D193ECF00A57192 /* primer insignia_00116.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018131D193ECF00A57192 /* primer insignia_00116.png */; };
+		7A10188A1D193F7C00A57192 /* BadgeAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1018891D193F7C00A57192 /* BadgeAnimation.swift */; };
 		7A551BB31D19352600B95E26 /* camera_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A551BB01D19352600B95E26 /* camera_icon.png */; };
 		7A551BB41D19352600B95E26 /* camera_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A551BB11D19352600B95E26 /* camera_icon@2x.png */; };
 		7A551BB51D19352600B95E26 /* camera_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A551BB21D19352600B95E26 /* camera_icon@3x.png */; };
@@ -164,6 +150,8 @@
 		7ACA5C6D1D19309900728030 /* login-facebook@3x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7ACA5C681D19309900728030 /* login-facebook@3x.jpg */; };
 		7ACA5C6E1D19309900728030 /* login-email@3x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7ACA5C691D19309900728030 /* login-email@3x.jpg */; };
 		7ACA5C6F1D19309900728030 /* bg-login@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ACA5C6A1D19309900728030 /* bg-login@3x.png */; };
+		7AFF62D91D1947BA00EB2866 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AFF62D81D1947BA00EB2866 /* ProfileViewController.swift */; };
+		7AFF62DC1D194E1E00EB2866 /* profile_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62DB1D194E1E00EB2866 /* profile_bg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -179,21 +167,6 @@
 /* Begin PBXFileReference section */
 		0EC6F220BF3CC3864EE9F7D8 /* Pods-BetaLabs.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetaLabs.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BetaLabs/Pods-BetaLabs.debug.xcconfig"; sourceTree = "<group>"; };
 		312DEE567A2F75948D0951F6 /* Pods_BetaLabs.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BetaLabs.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7A10179F1D193ECF00A57192 /* primer insignia_00000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00000.png"; sourceTree = "<group>"; };
-		7A1017A01D193ECF00A57192 /* primer insignia_00001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00001.png"; sourceTree = "<group>"; };
-		7A1017A11D193ECF00A57192 /* primer insignia_00002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00002.png"; sourceTree = "<group>"; };
-		7A1017A21D193ECF00A57192 /* primer insignia_00003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00003.png"; sourceTree = "<group>"; };
-		7A1017A31D193ECF00A57192 /* primer insignia_00004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00004.png"; sourceTree = "<group>"; };
-		7A1017A41D193ECF00A57192 /* primer insignia_00005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00005.png"; sourceTree = "<group>"; };
-		7A1017A51D193ECF00A57192 /* primer insignia_00006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00006.png"; sourceTree = "<group>"; };
-		7A1017A61D193ECF00A57192 /* primer insignia_00007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00007.png"; sourceTree = "<group>"; };
-		7A1017A71D193ECF00A57192 /* primer insignia_00008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00008.png"; sourceTree = "<group>"; };
-		7A1017A81D193ECF00A57192 /* primer insignia_00009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00009.png"; sourceTree = "<group>"; };
-		7A1017A91D193ECF00A57192 /* primer insignia_00010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00010.png"; sourceTree = "<group>"; };
-		7A1017AA1D193ECF00A57192 /* primer insignia_00011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00011.png"; sourceTree = "<group>"; };
-		7A1017AB1D193ECF00A57192 /* primer insignia_00012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00012.png"; sourceTree = "<group>"; };
-		7A1017AC1D193ECF00A57192 /* primer insignia_00013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00013.png"; sourceTree = "<group>"; };
-		7A1017AD1D193ECF00A57192 /* primer insignia_00014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00014.png"; sourceTree = "<group>"; };
 		7A1017AE1D193ECF00A57192 /* primer insignia_00015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00015.png"; sourceTree = "<group>"; };
 		7A1017AF1D193ECF00A57192 /* primer insignia_00016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00016.png"; sourceTree = "<group>"; };
 		7A1017B01D193ECF00A57192 /* primer insignia_00017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00017.png"; sourceTree = "<group>"; };
@@ -296,6 +269,7 @@
 		7A1018111D193ECF00A57192 /* primer insignia_00114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00114.png"; sourceTree = "<group>"; };
 		7A1018121D193ECF00A57192 /* primer insignia_00115.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00115.png"; sourceTree = "<group>"; };
 		7A1018131D193ECF00A57192 /* primer insignia_00116.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00116.png"; sourceTree = "<group>"; };
+		7A1018891D193F7C00A57192 /* BadgeAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeAnimation.swift; sourceTree = "<group>"; };
 		7A551BB01D19352600B95E26 /* camera_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera_icon.png; sourceTree = "<group>"; };
 		7A551BB11D19352600B95E26 /* camera_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera_icon@2x.png"; sourceTree = "<group>"; };
 		7A551BB21D19352600B95E26 /* camera_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera_icon@3x.png"; sourceTree = "<group>"; };
@@ -339,6 +313,8 @@
 		7ACA5C681D19309900728030 /* login-facebook@3x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "login-facebook@3x.jpg"; sourceTree = "<group>"; };
 		7ACA5C691D19309900728030 /* login-email@3x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "login-email@3x.jpg"; sourceTree = "<group>"; };
 		7ACA5C6A1D19309900728030 /* bg-login@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-login@3x.png"; sourceTree = "<group>"; };
+		7AFF62D81D1947BA00EB2866 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		7AFF62DB1D194E1E00EB2866 /* profile_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_bg.png; sourceTree = "<group>"; };
 		E851616D66061B5A02A31EF6 /* Pods-BetaLabs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetaLabs.release.xcconfig"; path = "Pods/Target Support Files/Pods-BetaLabs/Pods-BetaLabs.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -373,21 +349,6 @@
 		7A10179E1D193ECF00A57192 /* fst_animation */ = {
 			isa = PBXGroup;
 			children = (
-				7A10179F1D193ECF00A57192 /* primer insignia_00000.png */,
-				7A1017A01D193ECF00A57192 /* primer insignia_00001.png */,
-				7A1017A11D193ECF00A57192 /* primer insignia_00002.png */,
-				7A1017A21D193ECF00A57192 /* primer insignia_00003.png */,
-				7A1017A31D193ECF00A57192 /* primer insignia_00004.png */,
-				7A1017A41D193ECF00A57192 /* primer insignia_00005.png */,
-				7A1017A51D193ECF00A57192 /* primer insignia_00006.png */,
-				7A1017A61D193ECF00A57192 /* primer insignia_00007.png */,
-				7A1017A71D193ECF00A57192 /* primer insignia_00008.png */,
-				7A1017A81D193ECF00A57192 /* primer insignia_00009.png */,
-				7A1017A91D193ECF00A57192 /* primer insignia_00010.png */,
-				7A1017AA1D193ECF00A57192 /* primer insignia_00011.png */,
-				7A1017AB1D193ECF00A57192 /* primer insignia_00012.png */,
-				7A1017AC1D193ECF00A57192 /* primer insignia_00013.png */,
-				7A1017AD1D193ECF00A57192 /* primer insignia_00014.png */,
 				7A1017AE1D193ECF00A57192 /* primer insignia_00015.png */,
 				7A1017AF1D193ECF00A57192 /* primer insignia_00016.png */,
 				7A1017B01D193ECF00A57192 /* primer insignia_00017.png */,
@@ -549,6 +510,7 @@
 				7AC654521D18B7AA00D456B0 /* GenericTabBarViewController.swift */,
 				7A59707C1D18C6FC00BAF6C9 /* NewReportViewController.swift */,
 				7ACA5C621D19235600728030 /* FeedTableViewController.swift */,
+				7AFF62D81D1947BA00EB2866 /* ProfileViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -556,6 +518,7 @@
 		7AC654431D18ADA700D456B0 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				7AFF62DB1D194E1E00EB2866 /* profile_bg.png */,
 				7A10179E1D193ECF00A57192 /* fst_animation */,
 				7A551BB61D193C4300B95E26 /* pin_placeholder.png */,
 				7A551BB71D193C4300B95E26 /* pin_placeholder@2x.png */,
@@ -598,6 +561,7 @@
 			children = (
 				7ACA5C5E1D19069F00728030 /* DetailReport.swift */,
 				7ACA5C641D19244300728030 /* ReportTableViewCell.swift */,
+				7A1018891D193F7C00A57192 /* BadgeAnimation.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -694,11 +658,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A1018181D193ECF00A57192 /* primer insignia_00004.png in Resources */,
 				7AC6542A1D188F7700D456B0 /* LaunchScreen.storyboard in Resources */,
 				7A10184F1D193ECF00A57192 /* primer insignia_00059.png in Resources */,
 				7ACA5C5A1D18FE9000728030 /* feed.png in Resources */,
-				7A1018161D193ECF00A57192 /* primer insignia_00002.png in Resources */,
 				7A551BBA1D193C4300B95E26 /* pin_placeholder@2x.png in Resources */,
 				7A1018321D193ECF00A57192 /* primer insignia_00030.png in Resources */,
 				7A1018721D193ECF00A57192 /* primer insignia_00094.png in Resources */,
@@ -713,12 +675,10 @@
 				7A10186B1D193ECF00A57192 /* primer insignia_00087.png in Resources */,
 				7A1018261D193ECF00A57192 /* primer insignia_00018.png in Resources */,
 				7A1018761D193ECF00A57192 /* primer insignia_00098.png in Resources */,
-				7A1018201D193ECF00A57192 /* primer insignia_00012.png in Resources */,
 				7A10183E1D193ECF00A57192 /* primer insignia_00042.png in Resources */,
 				7A1018271D193ECF00A57192 /* primer insignia_00019.png in Resources */,
 				7A10187C1D193ECF00A57192 /* primer insignia_00104.png in Resources */,
 				7AC654271D188F7700D456B0 /* Assets.xcassets in Resources */,
-				7A10181C1D193ECF00A57192 /* primer insignia_00008.png in Resources */,
 				7A1018511D193ECF00A57192 /* primer insignia_00061.png in Resources */,
 				7ACA5C6C1D19309900728030 /* login-google@3x.jpg in Resources */,
 				7AC6544B1D18B08100D456B0 /* pin@3x.png in Resources */,
@@ -731,13 +691,11 @@
 				7A10187E1D193ECF00A57192 /* primer insignia_00106.png in Resources */,
 				7A1018421D193ECF00A57192 /* primer insignia_00046.png in Resources */,
 				7A1018881D193ECF00A57192 /* primer insignia_00116.png in Resources */,
-				7A1018171D193ECF00A57192 /* primer insignia_00003.png in Resources */,
 				7A10185F1D193ECF00A57192 /* primer insignia_00075.png in Resources */,
+				7AFF62DC1D194E1E00EB2866 /* profile_bg.png in Resources */,
 				7A10182F1D193ECF00A57192 /* primer insignia_00027.png in Resources */,
-				7A1018141D193ECF00A57192 /* primer insignia_00000.png in Resources */,
 				7A10187F1D193ECF00A57192 /* primer insignia_00107.png in Resources */,
 				7ACA5C6B1D19309900728030 /* login-mail-bg@3x.jpg in Resources */,
-				7A10181F1D193ECF00A57192 /* primer insignia_00011.png in Resources */,
 				7A10182E1D193ECF00A57192 /* primer insignia_00026.png in Resources */,
 				7A1018571D193ECF00A57192 /* primer insignia_00067.png in Resources */,
 				7AC654221D188F7700D456B0 /* Main.storyboard in Resources */,
@@ -748,10 +706,8 @@
 				7A551BB51D19352600B95E26 /* camera_icon@3x.png in Resources */,
 				7ACA5C5B1D18FE9000728030 /* feed@2x.png in Resources */,
 				7A1018791D193ECF00A57192 /* primer insignia_00101.png in Resources */,
-				7A1018191D193ECF00A57192 /* primer insignia_00005.png in Resources */,
 				7A1018291D193ECF00A57192 /* primer insignia_00021.png in Resources */,
 				7A1018701D193ECF00A57192 /* primer insignia_00092.png in Resources */,
-				7A10181A1D193ECF00A57192 /* primer insignia_00006.png in Resources */,
 				7A10185A1D193ECF00A57192 /* primer insignia_00070.png in Resources */,
 				7A10184E1D193ECF00A57192 /* primer insignia_00058.png in Resources */,
 				7A1018531D193ECF00A57192 /* primer insignia_00063.png in Resources */,
@@ -759,7 +715,6 @@
 				7A1018631D193ECF00A57192 /* primer insignia_00079.png in Resources */,
 				7A1018831D193ECF00A57192 /* primer insignia_00111.png in Resources */,
 				7A1018741D193ECF00A57192 /* primer insignia_00096.png in Resources */,
-				7A1018221D193ECF00A57192 /* primer insignia_00014.png in Resources */,
 				7A10186E1D193ECF00A57192 /* primer insignia_00090.png in Resources */,
 				7A1018861D193ECF00A57192 /* primer insignia_00114.png in Resources */,
 				7A10183F1D193ECF00A57192 /* primer insignia_00043.png in Resources */,
@@ -775,7 +730,6 @@
 				7AC6544A1D18B08100D456B0 /* pin@2x.png in Resources */,
 				7A1018551D193ECF00A57192 /* primer insignia_00065.png in Resources */,
 				7A1018541D193ECF00A57192 /* primer insignia_00064.png in Resources */,
-				7A10181B1D193ECF00A57192 /* primer insignia_00007.png in Resources */,
 				7A10185C1D193ECF00A57192 /* primer insignia_00072.png in Resources */,
 				7ACA5C6F1D19309900728030 /* bg-login@3x.png in Resources */,
 				7A10185E1D193ECF00A57192 /* primer insignia_00074.png in Resources */,
@@ -795,7 +749,6 @@
 				7A10184B1D193ECF00A57192 /* primer insignia_00055.png in Resources */,
 				7A1018871D193ECF00A57192 /* primer insignia_00115.png in Resources */,
 				7A551BBB1D193C4300B95E26 /* pin_placeholder@3x.png in Resources */,
-				7A10181D1D193ECF00A57192 /* primer insignia_00009.png in Resources */,
 				7A10184D1D193ECF00A57192 /* primer insignia_00057.png in Resources */,
 				7A1018521D193ECF00A57192 /* primer insignia_00062.png in Resources */,
 				7A10187D1D193ECF00A57192 /* primer insignia_00105.png in Resources */,
@@ -808,9 +761,7 @@
 				7ACA5C6D1D19309900728030 /* login-facebook@3x.jpg in Resources */,
 				7AC6544D1D18B36000D456B0 /* GoogleService-Info.plist in Resources */,
 				7A1018251D193ECF00A57192 /* primer insignia_00017.png in Resources */,
-				7A1018211D193ECF00A57192 /* primer insignia_00013.png in Resources */,
 				7A1018581D193ECF00A57192 /* primer insignia_00068.png in Resources */,
-				7A10181E1D193ECF00A57192 /* primer insignia_00010.png in Resources */,
 				7A1018451D193ECF00A57192 /* primer insignia_00049.png in Resources */,
 				7A10183C1D193ECF00A57192 /* primer insignia_00040.png in Resources */,
 				7A1018411D193ECF00A57192 /* primer insignia_00045.png in Resources */,
@@ -824,7 +775,6 @@
 				7ACA5C551D18FE9000728030 /* profile@2x.png in Resources */,
 				7A1018611D193ECF00A57192 /* primer insignia_00077.png in Resources */,
 				7ACA5C5C1D18FE9000728030 /* feed@3x.png in Resources */,
-				7A1018151D193ECF00A57192 /* primer insignia_00001.png in Resources */,
 				7A1018231D193ECF00A57192 /* primer insignia_00015.png in Resources */,
 				7A1018821D193ECF00A57192 /* primer insignia_00110.png in Resources */,
 				7A1018241D193ECF00A57192 /* primer insignia_00016.png in Resources */,
@@ -909,9 +859,11 @@
 				7AC654551D18B84B00D456B0 /* UploaderModel.swift in Sources */,
 				7AC654421D189FD200D456B0 /* MapViewController.swift in Sources */,
 				7AC6541D1D188F7700D456B0 /* AppDelegate.swift in Sources */,
+				7A10188A1D193F7C00A57192 /* BadgeAnimation.swift in Sources */,
 				7A59707D1D18C6FC00BAF6C9 /* NewReportViewController.swift in Sources */,
 				7ACA5C631D19235600728030 /* FeedTableViewController.swift in Sources */,
 				7AC654531D18B7AA00D456B0 /* GenericTabBarViewController.swift in Sources */,
+				7AFF62D91D1947BA00EB2866 /* ProfileViewController.swift in Sources */,
 				7ACA5C651D19244300728030 /* ReportTableViewCell.swift in Sources */,
 				7AC6544F1D18B69900D456B0 /* MapViewModel.swift in Sources */,
 			);
