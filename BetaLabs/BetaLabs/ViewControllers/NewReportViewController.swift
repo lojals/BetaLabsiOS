@@ -12,6 +12,7 @@ import RSKPlaceholderTextView
 
 class NewReportViewController: UIViewController {
     
+    @IBOutlet weak var navigationBar: UINavigationBar!
     @IBOutlet weak var scrollContainer: UIScrollView!
     @IBOutlet weak var map: MGLMapView!
     @IBOutlet weak var txtTitle: UITextField!
@@ -19,6 +20,11 @@ class NewReportViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        self.navigationBar.translucent  = false
+        self.navigationBar.tintColor    = UIColor.whiteColor()
+        self.navigationBar.barTintColor = UIColor(red:0.35, green:0.31, blue:0.38, alpha:1.00)
+        
     }
     
     override func viewWillAppear(animated: Bool) {
@@ -27,6 +33,8 @@ class NewReportViewController: UIViewController {
         self.map.setCenterCoordinate(location, zoomLevel: 16, animated: false)
         self.map.attributionButton.alpha = 0
         self.map.logoView.alpha = 0
+        self.map.rotateEnabled = false
+        
     }
     
     override func viewDidAppear(animated: Bool) {
@@ -39,5 +47,9 @@ class NewReportViewController: UIViewController {
     
     @IBAction func cancelReport(sender: AnyObject) {
         self.dismissViewControllerAnimated(true, completion: nil)
+    }
+    
+    override func preferredStatusBarStyle() -> UIStatusBarStyle {
+        return .LightContent
     }
 }

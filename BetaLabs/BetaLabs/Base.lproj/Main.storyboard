@@ -321,6 +321,7 @@
                     <size key="freeformSize" width="600" height="1600"/>
                     <connections>
                         <outlet property="map" destination="J8N-sU-ruz" id="hie-C2-vUJ"/>
+                        <outlet property="navigationBar" destination="xnW-jd-Wge" id="rhO-4x-p6D"/>
                         <outlet property="scrollContainer" destination="jHI-bq-oA2" id="VCh-mQ-Z4L"/>
                         <outlet property="txtDescription" destination="pRs-b2-vle" id="itG-lX-woW"/>
                         <outlet property="txtTitle" destination="uD2-3A-YgL" id="a5H-6R-L5I"/>
@@ -368,10 +369,10 @@
             </objects>
             <point key="canvasLocation" x="1767" y="56"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Generic Navigation View Controller-->
         <scene sceneID="HMi-V3-Rxc">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="i0U-YH-Ifo" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="i0U-YH-Ifo" customClass="GenericNavigationViewController" customModule="BetaLabs" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="" image="feed.png" id="Nrb-s1-IFI" customClass="TabBarItem" customModule="BetaLabs" customModuleProvider="target"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="ku2-Xl-B3t">
@@ -387,10 +388,10 @@
             </objects>
             <point key="canvasLocation" x="1767" y="723"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Generic Navigation View Controller-->
         <scene sceneID="RFq-Yc-U9J">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="9ym-Gv-5GI" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="9ym-Gv-5GI" customClass="GenericNavigationViewController" customModule="BetaLabs" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="" image="profile.png" id="xxn-2h-Ta5" customClass="TabBarItem" customModule="BetaLabs" customModuleProvider="target"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="a0L-77-Yso">
