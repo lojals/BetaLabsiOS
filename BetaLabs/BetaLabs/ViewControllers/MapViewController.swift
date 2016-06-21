@@ -35,11 +35,12 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
     }
     
     func pinsLoaded(notification:NSNotification){
-        let pins = notification.object as! [Report]
-        
-        for p in pins{
+        let pins     = notification.object as! [Report]
+        self.reports = pins
+        for (i,p) in pins.enumerate(){
             let ann2        = MGLPointAnnotation()
             ann2.coordinate = CLLocationCoordinate2D(latitude: Double(p.latitude!), longitude: Double(p.longitude!))
+            ann2.title      = "\(i)"
             map.addAnnotation(ann2)
         }
     }
