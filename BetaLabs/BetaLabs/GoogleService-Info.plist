@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>932678776749-b361ra78su11g3ccc5d75bmhhrf7u34u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.932678776749-b361ra78su11g3ccc5d75bmhhrf7u34u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClBiuZTXelmsX3racD-WhshblPtG60xtA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932678776749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.betalabs.report</string>
+	<key>PROJECT_ID</key>
+	<string>betalabs-14933</string>
+	<key>STORAGE_BUCKET</key>
+	<string>betalabs-14933.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932678776749:ios:45a2eac5ba6f1004</string>
+	<key>DATABASE_URL</key>
+	<string>https://betalabs-14933.firebaseio.com</string>
+</dict>
+</plist>

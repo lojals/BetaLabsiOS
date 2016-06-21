@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		04445DA16D90722482DC2A17 /* Pods_BetaLabs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 312DEE567A2F75948D0951F6 /* Pods_BetaLabs.framework */; };
+		7A59707D1D18C6FC00BAF6C9 /* NewReportViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A59707C1D18C6FC00BAF6C9 /* NewReportViewController.swift */; };
 		7AC6541D1D188F7700D456B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC6541C1D188F7700D456B0 /* AppDelegate.swift */; };
 		7AC654221D188F7700D456B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AC654201D188F7700D456B0 /* Main.storyboard */; };
 		7AC654251D188F7700D456B0 /* BetaLabs.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7AC654231D188F7700D456B0 /* BetaLabs.xcdatamodeld */; };
@@ -18,6 +19,11 @@
 		7AC654491D18B08100D456B0 /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AC654461D18B08100D456B0 /* pin.png */; };
 		7AC6544A1D18B08100D456B0 /* pin@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AC654471D18B08100D456B0 /* pin@2x.png */; };
 		7AC6544B1D18B08100D456B0 /* pin@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AC654481D18B08100D456B0 /* pin@3x.png */; };
+		7AC6544D1D18B36000D456B0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7AC6544C1D18B36000D456B0 /* GoogleService-Info.plist */; };
+		7AC6544F1D18B69900D456B0 /* MapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC6544E1D18B69900D456B0 /* MapViewModel.swift */; };
+		7AC654511D18B6C300D456B0 /* GenericNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC654501D18B6C300D456B0 /* GenericNavigationViewController.swift */; };
+		7AC654531D18B7AA00D456B0 /* GenericTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC654521D18B7AA00D456B0 /* GenericTabBarViewController.swift */; };
+		7AC654551D18B84B00D456B0 /* UploaderModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC654541D18B84B00D456B0 /* UploaderModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +39,7 @@
 /* Begin PBXFileReference section */
 		0EC6F220BF3CC3864EE9F7D8 /* Pods-BetaLabs.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetaLabs.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BetaLabs/Pods-BetaLabs.debug.xcconfig"; sourceTree = "<group>"; };
 		312DEE567A2F75948D0951F6 /* Pods_BetaLabs.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BetaLabs.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A59707C1D18C6FC00BAF6C9 /* NewReportViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewReportViewController.swift; sourceTree = "<group>"; };
 		7AC654191D188F7700D456B0 /* BetaLabs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetaLabs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AC6541C1D188F7700D456B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7AC654211D188F7700D456B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -47,6 +54,11 @@
 		7AC654461D18B08100D456B0 /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = "<group>"; };
 		7AC654471D18B08100D456B0 /* pin@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pin@2x.png"; sourceTree = "<group>"; };
 		7AC654481D18B08100D456B0 /* pin@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pin@3x.png"; sourceTree = "<group>"; };
+		7AC6544C1D18B36000D456B0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		7AC6544E1D18B69900D456B0 /* MapViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MapViewModel.swift; path = ViewControllers/MapViewModel.swift; sourceTree = "<group>"; };
+		7AC654501D18B6C300D456B0 /* GenericNavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenericNavigationViewController.swift; sourceTree = "<group>"; };
+		7AC654521D18B7AA00D456B0 /* GenericTabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenericTabBarViewController.swift; sourceTree = "<group>"; };
+		7AC654541D18B84B00D456B0 /* UploaderModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UploaderModel.swift; path = ViewControllers/UploaderModel.swift; sourceTree = "<group>"; };
 		E851616D66061B5A02A31EF6 /* Pods-BetaLabs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetaLabs.release.xcconfig"; path = "Pods/Target Support Files/Pods-BetaLabs/Pods-BetaLabs.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				7AC654431D18ADA700D456B0 /* Assets */,
+				7AC654561D18B89C00D456B0 /* Models */,
 				7AC654401D189FBD00D456B0 /* ViewControllers */,
 				7AC6541C1D188F7700D456B0 /* AppDelegate.swift */,
 				7AC654201D188F7700D456B0 /* Main.storyboard */,
@@ -109,6 +122,7 @@
 				7AC654281D188F7700D456B0 /* LaunchScreen.storyboard */,
 				7AC6542B1D188F7700D456B0 /* Info.plist */,
 				7AC654231D188F7700D456B0 /* BetaLabs.xcdatamodeld */,
+				7AC6544C1D18B36000D456B0 /* GoogleService-Info.plist */,
 			);
 			path = BetaLabs;
 			sourceTree = "<group>";
@@ -126,6 +140,9 @@
 			isa = PBXGroup;
 			children = (
 				7AC654411D189FD200D456B0 /* MapViewController.swift */,
+				7AC654501D18B6C300D456B0 /* GenericNavigationViewController.swift */,
+				7AC654521D18B7AA00D456B0 /* GenericTabBarViewController.swift */,
+				7A59707C1D18C6FC00BAF6C9 /* NewReportViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -138,6 +155,15 @@
 				7AC654481D18B08100D456B0 /* pin@3x.png */,
 			);
 			path = Assets;
+			sourceTree = "<group>";
+		};
+		7AC654561D18B89C00D456B0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7AC6544E1D18B69900D456B0 /* MapViewModel.swift */,
+				7AC654541D18B84B00D456B0 /* UploaderModel.swift */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 		FC5DF69F7631A40EC96CB394 /* Frameworks */ = {
@@ -238,6 +264,7 @@
 				7AC6544B1D18B08100D456B0 /* pin@3x.png in Resources */,
 				7AC654221D188F7700D456B0 /* Main.storyboard in Resources */,
 				7AC6544A1D18B08100D456B0 /* pin@2x.png in Resources */,
+				7AC6544D1D18B36000D456B0 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,9 +330,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AC654511D18B6C300D456B0 /* GenericNavigationViewController.swift in Sources */,
 				7AC654251D188F7700D456B0 /* BetaLabs.xcdatamodeld in Sources */,
+				7AC654551D18B84B00D456B0 /* UploaderModel.swift in Sources */,
 				7AC654421D189FD200D456B0 /* MapViewController.swift in Sources */,
 				7AC6541D1D188F7700D456B0 /* AppDelegate.swift in Sources */,
+				7A59707D1D18C6FC00BAF6C9 /* NewReportViewController.swift in Sources */,
+				7AC654531D18B7AA00D456B0 /* GenericTabBarViewController.swift in Sources */,
+				7AC6544F1D18B69900D456B0 /* MapViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,7 +469,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = BetaLabs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mx.betalabs.report.BetaLabs;
+				PRODUCT_BUNDLE_IDENTIFIER = mx.betalabs.report;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -449,7 +481,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = BetaLabs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = mx.betalabs.report.BetaLabs;
+				PRODUCT_BUNDLE_IDENTIFIER = mx.betalabs.report;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
