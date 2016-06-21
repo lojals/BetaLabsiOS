@@ -24,8 +24,15 @@ class ReportTableViewCell: UITableViewCell {
         lblTitle.text   = "Bache increible"
         lblAddress.text = "SM 38 MZA 42 L 3 Cancún, Quintana Roo CP 77500"
         lblAddress.sizeToFit()
-        imgReport.hnk_setImageFromURL(NSURL(string: "http://theexpiredmeter.com/wp-content/uploads/2008/12/pothole.jpg"))
+        //        imgReport.hnk_setImageFromURL(NSURL(string: "http://theexpiredmeter.com/wp-content/uploads/2008/12/pothole.jpg"))
         
+    }
+    
+    func setReport(report:Report){
+        lblTitle.text   = report.title
+        lblAddress.text = "SM 38 MZA 42 L 3 Cancún, Quintana Roo CP 77500"
+        imgReport.image = UIImage(data: report.image!)
+        lblAddress.sizeToFit()
     }
     
     override func setSelected(selected: Bool, animated: Bool) {
