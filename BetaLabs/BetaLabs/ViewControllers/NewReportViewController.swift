@@ -9,6 +9,7 @@
 import UIKit
 import Mapbox
 import RSKPlaceholderTextView
+import DKImagePickerController
 
 class NewReportViewController: UIViewController {
     
@@ -48,5 +49,26 @@ class NewReportViewController: UIViewController {
     
     override func preferredStatusBarStyle() -> UIStatusBarStyle {
         return .LightContent
+    }
+    
+    @IBAction func AddPicture(sender: AnyObject) {
+        let pickerController = DKImagePickerController()
+        pickerController.singleSelect = true
+        pickerController.assetType = .AllPhotos
+        pickerController.didSelectAssets = { (assets: [DKAsset]) in
+            assets[0].fetchFullScreenImage(true, completeBlock: {[unowned self] (image, info) in
+                dispatch_async(dispatch_get_main_queue(), { () -> Void in
+                    (self.view.viewWithTag(sender.tag) as! UIButton).setImage(image, forState: .Normal)
+                    (self.view.viewWithTag(sender.tag) as! UIButton).imageView?.contentMode = .ScaleAspectFill
+                })
+                })
+        }
+        
+        self.presentViewController(pickerController, animated: true) {}
+    }
+    
+    @IBAction func PostReport(sender: AnyObject) {
+        
+        
     }
 }

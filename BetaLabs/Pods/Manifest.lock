@@ -1,4 +1,9 @@
 PODS:
+  - DKImagePickerController (3.3.2):
+    - DKImagePickerController/Camera (= 3.3.2)
+    - DKImagePickerController/ImageManager (= 3.3.2)
+  - DKImagePickerController/Camera (3.3.2)
+  - DKImagePickerController/ImageManager (3.3.2)
   - Firebase (3.2.1):
     - Firebase/Core (= 3.2.1)
   - Firebase/Analytics (3.2.1):
@@ -23,6 +28,7 @@ PODS:
   - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
+  - DKImagePickerController
   - Firebase
   - Haneke (~> 1.0)
   - Mapbox-iOS-SDK (~> 3.2.3)
@@ -31,6 +37,7 @@ DEPENDENCIES:
   - SwiftyJSON
 
 SPEC CHECKSUMS:
+  DKImagePickerController: 416dab2d42caaf4ca681baca9c2d533895a8c1a2
   Firebase: 6c80ac28d59d06bfd9152a7b6ea17625ca93183d
   FirebaseAnalytics: 6f75b04e6bfb8e0b6e9ef298e04c24eea3b13863
   FirebaseInstanceID: d014d574053a2fe84478f12f7bae96979e7051bb
