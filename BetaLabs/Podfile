@@ -2,12 +2,13 @@ platform :ios, '8.0'
 use_frameworks!
 
 target 'BetaLabs' do
-pod 'pop', '~> 1.0'
-pod 'Firebase'
-pod 'SwiftyJSON'
-pod 'Mapbox-iOS-SDK', '~> 3.2.3'
+    pod 'pop', '~> 1.0'
+    pod 'Firebase'
+    pod 'SwiftyJSON'
+    pod 'Mapbox-iOS-SDK', '~> 3.2.3'
+    pod 'RSKPlaceholderTextView'
 end
 
 target 'BetaLabsTests' do
-
+    
 end

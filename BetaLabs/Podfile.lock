@@ -18,12 +18,14 @@ PODS:
     - GoogleSymbolUtilities (~> 1.0)
   - Mapbox-iOS-SDK (3.2.3)
   - pop (1.0.9)
+  - RSKPlaceholderTextView (1.1.0)
   - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
   - Firebase
   - Mapbox-iOS-SDK (~> 3.2.3)
   - pop (~> 1.0)
+  - RSKPlaceholderTextView
   - SwiftyJSON
 
 SPEC CHECKSUMS:
@@ -35,6 +37,7 @@ SPEC CHECKSUMS:
   GoogleUtilities: 56c5ac05b7aa5dc417a1bb85221a9516e04d7032
   Mapbox-iOS-SDK: 120e8a140e9cd4adae8227340dd89f5cc3850259
   pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  RSKPlaceholderTextView: 7592a2fdb3e01c952d0228d46f4464e16a52099f
   SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
 
 COCOAPODS: 0.39.0

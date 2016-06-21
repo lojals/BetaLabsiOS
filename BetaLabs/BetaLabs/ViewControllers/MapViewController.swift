@@ -21,9 +21,9 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
         map.logoView.alpha = 0
         map.attributionButton.alpha = 0
         
-        let location2   = CLLocationCoordinate2D(latitude: 21.16514317984627, longitude: -86.82134628295898)
+        let location   = CLLocationCoordinate2D(latitude: 21.16514317984627, longitude: -86.82134628295898)
         let ann2        = MGLPointAnnotation()
-        ann2.coordinate = location2
+        ann2.coordinate = location
         map.addAnnotation(ann2)
         
         map.showsUserLocation = true
