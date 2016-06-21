@@ -51,8 +51,14 @@ class DetailReport: UIView {
     }
     
     func load(){
-        imgReport.hnk_setImageFromURL(NSURL(string: "http://theexpiredmeter.com/wp-content/uploads/2008/12/pothole.jpg"))
+        //        imgReport.hnk_setImageFromURL(NSURL(string: "http://theexpiredmeter.com/wp-content/uploads/2008/12/pothole.jpg"))
     }
     
+    func setReport(report:Report){
+        lblTitle.text         = report.title
+        imgReport.image       = UIImage(data: report.image!)
+        imgReport.contentMode = .ScaleAspectFill
+        imgReport.layer.masksToBounds = true
+    }
     
 }

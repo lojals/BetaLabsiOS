@@ -17,6 +17,8 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
     private var model:MapViewModel!
     private var reports:[Report]!
     
+    private var selectedReport:Report!
+    
     var openedMenu:Bool = false {didSet{self.animateMenu()}}
     let location   = CLLocationCoordinate2D(latitude: 21.16514317984627, longitude: -86.82134628295898)
     
@@ -24,14 +26,9 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
         super.viewDidLoad()
         map.logoView.alpha          = 0
         map.attributionButton.alpha = 0
-        let ann2                    = MGLPointAnnotation()
-        ann2.coordinate             = location
-        map.addAnnotation(ann2)
-        map.rotateEnabled = false
-        map.showsUserLocation = true
-        
+        map.rotateEnabled           = false
+        map.showsUserLocation       = true
         model = MapViewModel()
-        
     }
     
     func pinsLoaded(notification:NSNotification){
@@ -41,6 +38,7 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
             let ann2        = MGLPointAnnotation()
             ann2.coordinate = CLLocationCoordinate2D(latitude: Double(p.latitude!), longitude: Double(p.longitude!))
             ann2.title      = "\(i)"
+            ann2.subtitle   = p.category
             map.addAnnotation(ann2)
         }
     }
@@ -59,13 +57,17 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
     }
     
     func mapView(mapView: MGLMapView, imageForAnnotation annotation: MGLAnnotation) -> MGLAnnotationImage? {
-        var annotationImage = mapView.dequeueReusableAnnotationImageWithIdentifier("pisa")
-        if annotationImage == nil {
-            var image = UIImage(named: "baches")!
-            image = image.imageWithAlignmentRectInsets(UIEdgeInsetsMake(0, 0, image.size.height/2, 0))
-            annotationImage = MGLAnnotationImage(image: image, reuseIdentifier: "pisa")
+        if let im = annotation.subtitle{
+            var annotationImage = mapView.dequeueReusableAnnotationImageWithIdentifier(im!)
+            if annotationImage == nil {
+                var image = UIImage(named: im!)!
+                image = image.imageWithAlignmentRectInsets(UIEdgeInsetsMake(0, 0, image.size.height/2, 0))
+                annotationImage = MGLAnnotationImage(image: image, reuseIdentifier: im!)
+            }
+            return annotationImage
+        }else{
+            return nil
         }
-        return annotationImage
     }
     
     func mapView(mapView: MGLMapView, annotationCanShowCallout annotation: MGLAnnotation) -> Bool {
@@ -74,7 +76,9 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
     
     func mapView(mapView: MGLMapView, didSelectAnnotation annotation: MGLAnnotation) {
         map.setCenterCoordinate(annotation.coordinate, animated: true)
-        openedMenu = !openedMenu
+        selectedReport = reports[Int(annotation.title!!)!]
+        detailReport.setReport(selectedReport)
+        openedMenu     = true
     }
     
     func mapView(mapView: MGLMapView, regionDidChangeAnimated animated: Bool) {
