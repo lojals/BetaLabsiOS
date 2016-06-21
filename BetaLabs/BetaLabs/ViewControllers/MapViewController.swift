@@ -11,22 +11,27 @@ import Mapbox
 import pop
 
 class MapViewController: UIViewController, MGLMapViewDelegate {
+    @IBOutlet weak var detailReport: DetailReport!
     @IBOutlet weak var map: MGLMapView!
     @IBOutlet weak var bottomConstraint: NSLayoutConstraint!
     
     var openedMenu:Bool = false {didSet{self.animateMenu()}}
+    let location   = CLLocationCoordinate2D(latitude: 21.16514317984627, longitude: -86.82134628295898)
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        map.logoView.alpha = 0
+        map.logoView.alpha          = 0
         map.attributionButton.alpha = 0
-        
-        let location   = CLLocationCoordinate2D(latitude: 21.16514317984627, longitude: -86.82134628295898)
-        let ann2        = MGLPointAnnotation()
-        ann2.coordinate = location
+        let ann2                    = MGLPointAnnotation()
+        ann2.coordinate             = location
         map.addAnnotation(ann2)
-        
+        map.rotateEnabled = false
         map.showsUserLocation = true
+    }
+    
+    override func viewWillAppear(animated: Bool) {
+        self.map.minimumZoomLevel = 10
+        self.map.setCenterCoordinate(location, zoomLevel: 12, animated: false)
     }
     
     func mapView(mapView: MGLMapView, imageForAnnotation annotation: MGLAnnotation) -> MGLAnnotationImage? {
@@ -58,8 +63,9 @@ class MapViewController: UIViewController, MGLMapViewDelegate {
         var value = 0
         if openedMenu{
             value = 0
+            detailReport.load()
         }else{
-            value = -128
+            value = -100
         }
         let animation     = POPSpringAnimation(propertyNamed: kPOPLayoutConstraintConstant)
         animation.toValue = value

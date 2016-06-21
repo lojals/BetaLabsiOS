@@ -20,11 +20,9 @@ class NewReportViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         self.navigationBar.translucent  = false
         self.navigationBar.tintColor    = UIColor.whiteColor()
         self.navigationBar.barTintColor = UIColor(red:0.35, green:0.31, blue:0.38, alpha:1.00)
-        
     }
     
     override func viewWillAppear(animated: Bool) {
@@ -34,7 +32,6 @@ class NewReportViewController: UIViewController {
         self.map.attributionButton.alpha = 0
         self.map.logoView.alpha = 0
         self.map.rotateEnabled = false
-        
     }
     
     override func viewDidAppear(animated: Bool) {

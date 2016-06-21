@@ -33,6 +33,7 @@
 		7ACA5C5A1D18FE9000728030 /* feed.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ACA5C511D18FE9000728030 /* feed.png */; };
 		7ACA5C5B1D18FE9000728030 /* feed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ACA5C521D18FE9000728030 /* feed@2x.png */; };
 		7ACA5C5C1D18FE9000728030 /* feed@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ACA5C531D18FE9000728030 /* feed@3x.png */; };
+		7ACA5C5F1D19069F00728030 /* DetailReport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ACA5C5E1D19069F00728030 /* DetailReport.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,7 @@
 		7ACA5C511D18FE9000728030 /* feed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = feed.png; sourceTree = "<group>"; };
 		7ACA5C521D18FE9000728030 /* feed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "feed@2x.png"; sourceTree = "<group>"; };
 		7ACA5C531D18FE9000728030 /* feed@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "feed@3x.png"; sourceTree = "<group>"; };
+		7ACA5C5E1D19069F00728030 /* DetailReport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailReport.swift; sourceTree = "<group>"; };
 		E851616D66061B5A02A31EF6 /* Pods-BetaLabs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetaLabs.release.xcconfig"; path = "Pods/Target Support Files/Pods-BetaLabs/Pods-BetaLabs.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -132,6 +134,7 @@
 			isa = PBXGroup;
 			children = (
 				7AC654431D18ADA700D456B0 /* Assets */,
+				7ACA5C5D1D19062D00728030 /* Components */,
 				7AC654561D18B89C00D456B0 /* Models */,
 				7AC654401D189FBD00D456B0 /* ViewControllers */,
 				7AC6541C1D188F7700D456B0 /* AppDelegate.swift */,
@@ -191,6 +194,14 @@
 				7AC654541D18B84B00D456B0 /* UploaderModel.swift */,
 			);
 			name = Models;
+			sourceTree = "<group>";
+		};
+		7ACA5C5D1D19062D00728030 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				7ACA5C5E1D19069F00728030 /* DetailReport.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 		FC5DF69F7631A40EC96CB394 /* Frameworks */ = {
@@ -367,6 +378,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AC654511D18B6C300D456B0 /* GenericNavigationViewController.swift in Sources */,
+				7ACA5C5F1D19069F00728030 /* DetailReport.swift in Sources */,
 				7AC654251D188F7700D456B0 /* BetaLabs.xcdatamodeld in Sources */,
 				7AC654551D18B84B00D456B0 /* UploaderModel.swift in Sources */,
 				7AC654421D189FD200D456B0 /* MapViewController.swift in Sources */,
