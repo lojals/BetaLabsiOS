@@ -10,54 +10,35 @@ import UIKit
 
 class ProfileViewController: UITableViewController {
     
+    @IBOutlet weak var imgUser: UIImageView!
+    @IBOutlet weak var lblName: UILabel!
+    @IBOutlet weak var lblAddress: UILabel!
+    
+    @IBOutlet weak var imgUser1: UIImageView!
+    @IBOutlet weak var imgUser2: UIImageView!
+    
+    @IBOutlet weak var lblName1: UILabel!
+    @IBOutlet weak var lblName2: UILabel!
+    
+    @IBOutlet weak var lblCounter1: UILabel!
+    @IBOutlet weak var lblCounter2: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.tableView.rowHeight = UITableViewAutomaticDimension
+        self.tableView.rowHeight         = UITableViewAutomaticDimension
+        self.tableView.allowsSelection   = false
+        
+        self.imgUser.layer.cornerRadius  = 32
+        self.imgUser1.layer.cornerRadius = 27.5
+        self.imgUser2.layer.cornerRadius = 27.5
     }
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
     
-    override func numberOfSectionsInTableView(tableView: UITableView) -> Int {
-        return 3
-    }
-    
-    override func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        switch section{
-        case 0: return 1
-        case 1: return 1
-        case 2: return 5
-        default: return 0
-        }
-    }
-    
-    
-    override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        switch indexPath.section {
-        case 0:
-            let cell = tableView.dequeueReusableCellWithIdentifier("HeaderCell", forIndexPath: indexPath)
-            return cell
-        case 1:
-            let cell = tableView.dequeueReusableCellWithIdentifier("BadgesCell", forIndexPath: indexPath)
-            cell.backgroundColor = UIColor.greenColor()
-            return cell
-        case 2:
-            let cell = tableView.dequeueReusableCellWithIdentifier("FriendCell", forIndexPath: indexPath)
-            cell.backgroundColor = UIColor.redColor()
-            return cell
-        default:
-            let cell = tableView.dequeueReusableCellWithIdentifier("", forIndexPath: indexPath)
-            return cell
-        }
-    }
-    
-    override func tableView(tableView: UITableView, heightForRowAtIndexPath indexPath: NSIndexPath) -> CGFloat {
-        switch indexPath.section{
-        case 0: return 300
-        case 1: return 71
-        case 2: return 80
-        default: return 0
-        }
+    override func tableView(tableView: UITableView, heightForFooterInSection section: Int) -> CGFloat {
+        return 40
     }
 }

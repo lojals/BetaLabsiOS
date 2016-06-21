@@ -8,108 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		04445DA16D90722482DC2A17 /* Pods_BetaLabs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 312DEE567A2F75948D0951F6 /* Pods_BetaLabs.framework */; };
-		7A1018231D193ECF00A57192 /* primer insignia_00015.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AE1D193ECF00A57192 /* primer insignia_00015.png */; };
-		7A1018241D193ECF00A57192 /* primer insignia_00016.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017AF1D193ECF00A57192 /* primer insignia_00016.png */; };
-		7A1018251D193ECF00A57192 /* primer insignia_00017.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B01D193ECF00A57192 /* primer insignia_00017.png */; };
-		7A1018261D193ECF00A57192 /* primer insignia_00018.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B11D193ECF00A57192 /* primer insignia_00018.png */; };
-		7A1018271D193ECF00A57192 /* primer insignia_00019.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B21D193ECF00A57192 /* primer insignia_00019.png */; };
-		7A1018281D193ECF00A57192 /* primer insignia_00020.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B31D193ECF00A57192 /* primer insignia_00020.png */; };
-		7A1018291D193ECF00A57192 /* primer insignia_00021.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B41D193ECF00A57192 /* primer insignia_00021.png */; };
-		7A10182A1D193ECF00A57192 /* primer insignia_00022.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B51D193ECF00A57192 /* primer insignia_00022.png */; };
-		7A10182B1D193ECF00A57192 /* primer insignia_00023.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B61D193ECF00A57192 /* primer insignia_00023.png */; };
-		7A10182C1D193ECF00A57192 /* primer insignia_00024.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B71D193ECF00A57192 /* primer insignia_00024.png */; };
-		7A10182D1D193ECF00A57192 /* primer insignia_00025.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B81D193ECF00A57192 /* primer insignia_00025.png */; };
-		7A10182E1D193ECF00A57192 /* primer insignia_00026.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017B91D193ECF00A57192 /* primer insignia_00026.png */; };
-		7A10182F1D193ECF00A57192 /* primer insignia_00027.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017BA1D193ECF00A57192 /* primer insignia_00027.png */; };
-		7A1018301D193ECF00A57192 /* primer insignia_00028.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017BB1D193ECF00A57192 /* primer insignia_00028.png */; };
-		7A1018311D193ECF00A57192 /* primer insignia_00029.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017BC1D193ECF00A57192 /* primer insignia_00029.png */; };
-		7A1018321D193ECF00A57192 /* primer insignia_00030.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017BD1D193ECF00A57192 /* primer insignia_00030.png */; };
-		7A1018331D193ECF00A57192 /* primer insignia_00031.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017BE1D193ECF00A57192 /* primer insignia_00031.png */; };
-		7A1018341D193ECF00A57192 /* primer insignia_00032.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017BF1D193ECF00A57192 /* primer insignia_00032.png */; };
-		7A1018351D193ECF00A57192 /* primer insignia_00033.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C01D193ECF00A57192 /* primer insignia_00033.png */; };
-		7A1018361D193ECF00A57192 /* primer insignia_00034.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C11D193ECF00A57192 /* primer insignia_00034.png */; };
-		7A1018371D193ECF00A57192 /* primer insignia_00035.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C21D193ECF00A57192 /* primer insignia_00035.png */; };
-		7A1018381D193ECF00A57192 /* primer insignia_00036.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C31D193ECF00A57192 /* primer insignia_00036.png */; };
-		7A1018391D193ECF00A57192 /* primer insignia_00037.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C41D193ECF00A57192 /* primer insignia_00037.png */; };
-		7A10183A1D193ECF00A57192 /* primer insignia_00038.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C51D193ECF00A57192 /* primer insignia_00038.png */; };
-		7A10183B1D193ECF00A57192 /* primer insignia_00039.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C61D193ECF00A57192 /* primer insignia_00039.png */; };
-		7A10183C1D193ECF00A57192 /* primer insignia_00040.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C71D193ECF00A57192 /* primer insignia_00040.png */; };
-		7A10183D1D193ECF00A57192 /* primer insignia_00041.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C81D193ECF00A57192 /* primer insignia_00041.png */; };
-		7A10183E1D193ECF00A57192 /* primer insignia_00042.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017C91D193ECF00A57192 /* primer insignia_00042.png */; };
-		7A10183F1D193ECF00A57192 /* primer insignia_00043.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017CA1D193ECF00A57192 /* primer insignia_00043.png */; };
-		7A1018401D193ECF00A57192 /* primer insignia_00044.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017CB1D193ECF00A57192 /* primer insignia_00044.png */; };
-		7A1018411D193ECF00A57192 /* primer insignia_00045.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017CC1D193ECF00A57192 /* primer insignia_00045.png */; };
-		7A1018421D193ECF00A57192 /* primer insignia_00046.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017CD1D193ECF00A57192 /* primer insignia_00046.png */; };
-		7A1018431D193ECF00A57192 /* primer insignia_00047.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017CE1D193ECF00A57192 /* primer insignia_00047.png */; };
-		7A1018441D193ECF00A57192 /* primer insignia_00048.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017CF1D193ECF00A57192 /* primer insignia_00048.png */; };
-		7A1018451D193ECF00A57192 /* primer insignia_00049.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D01D193ECF00A57192 /* primer insignia_00049.png */; };
-		7A1018461D193ECF00A57192 /* primer insignia_00050.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D11D193ECF00A57192 /* primer insignia_00050.png */; };
-		7A1018471D193ECF00A57192 /* primer insignia_00051.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D21D193ECF00A57192 /* primer insignia_00051.png */; };
-		7A1018481D193ECF00A57192 /* primer insignia_00052.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D31D193ECF00A57192 /* primer insignia_00052.png */; };
-		7A1018491D193ECF00A57192 /* primer insignia_00053.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D41D193ECF00A57192 /* primer insignia_00053.png */; };
-		7A10184A1D193ECF00A57192 /* primer insignia_00054.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D51D193ECF00A57192 /* primer insignia_00054.png */; };
-		7A10184B1D193ECF00A57192 /* primer insignia_00055.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D61D193ECF00A57192 /* primer insignia_00055.png */; };
-		7A10184C1D193ECF00A57192 /* primer insignia_00056.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D71D193ECF00A57192 /* primer insignia_00056.png */; };
-		7A10184D1D193ECF00A57192 /* primer insignia_00057.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D81D193ECF00A57192 /* primer insignia_00057.png */; };
-		7A10184E1D193ECF00A57192 /* primer insignia_00058.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017D91D193ECF00A57192 /* primer insignia_00058.png */; };
-		7A10184F1D193ECF00A57192 /* primer insignia_00059.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017DA1D193ECF00A57192 /* primer insignia_00059.png */; };
-		7A1018501D193ECF00A57192 /* primer insignia_00060.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017DB1D193ECF00A57192 /* primer insignia_00060.png */; };
-		7A1018511D193ECF00A57192 /* primer insignia_00061.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017DC1D193ECF00A57192 /* primer insignia_00061.png */; };
-		7A1018521D193ECF00A57192 /* primer insignia_00062.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017DD1D193ECF00A57192 /* primer insignia_00062.png */; };
-		7A1018531D193ECF00A57192 /* primer insignia_00063.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017DE1D193ECF00A57192 /* primer insignia_00063.png */; };
-		7A1018541D193ECF00A57192 /* primer insignia_00064.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017DF1D193ECF00A57192 /* primer insignia_00064.png */; };
-		7A1018551D193ECF00A57192 /* primer insignia_00065.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E01D193ECF00A57192 /* primer insignia_00065.png */; };
-		7A1018561D193ECF00A57192 /* primer insignia_00066.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E11D193ECF00A57192 /* primer insignia_00066.png */; };
-		7A1018571D193ECF00A57192 /* primer insignia_00067.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E21D193ECF00A57192 /* primer insignia_00067.png */; };
-		7A1018581D193ECF00A57192 /* primer insignia_00068.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E31D193ECF00A57192 /* primer insignia_00068.png */; };
-		7A1018591D193ECF00A57192 /* primer insignia_00069.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E41D193ECF00A57192 /* primer insignia_00069.png */; };
-		7A10185A1D193ECF00A57192 /* primer insignia_00070.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E51D193ECF00A57192 /* primer insignia_00070.png */; };
-		7A10185B1D193ECF00A57192 /* primer insignia_00071.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E61D193ECF00A57192 /* primer insignia_00071.png */; };
-		7A10185C1D193ECF00A57192 /* primer insignia_00072.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E71D193ECF00A57192 /* primer insignia_00072.png */; };
-		7A10185D1D193ECF00A57192 /* primer insignia_00073.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E81D193ECF00A57192 /* primer insignia_00073.png */; };
-		7A10185E1D193ECF00A57192 /* primer insignia_00074.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017E91D193ECF00A57192 /* primer insignia_00074.png */; };
-		7A10185F1D193ECF00A57192 /* primer insignia_00075.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017EA1D193ECF00A57192 /* primer insignia_00075.png */; };
-		7A1018601D193ECF00A57192 /* primer insignia_00076.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017EB1D193ECF00A57192 /* primer insignia_00076.png */; };
-		7A1018611D193ECF00A57192 /* primer insignia_00077.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017EC1D193ECF00A57192 /* primer insignia_00077.png */; };
-		7A1018621D193ECF00A57192 /* primer insignia_00078.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017ED1D193ECF00A57192 /* primer insignia_00078.png */; };
-		7A1018631D193ECF00A57192 /* primer insignia_00079.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017EE1D193ECF00A57192 /* primer insignia_00079.png */; };
-		7A1018641D193ECF00A57192 /* primer insignia_00080.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017EF1D193ECF00A57192 /* primer insignia_00080.png */; };
-		7A1018651D193ECF00A57192 /* primer insignia_00081.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F01D193ECF00A57192 /* primer insignia_00081.png */; };
-		7A1018661D193ECF00A57192 /* primer insignia_00082.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F11D193ECF00A57192 /* primer insignia_00082.png */; };
-		7A1018671D193ECF00A57192 /* primer insignia_00083.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F21D193ECF00A57192 /* primer insignia_00083.png */; };
-		7A1018681D193ECF00A57192 /* primer insignia_00084.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F31D193ECF00A57192 /* primer insignia_00084.png */; };
-		7A1018691D193ECF00A57192 /* primer insignia_00085.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F41D193ECF00A57192 /* primer insignia_00085.png */; };
-		7A10186A1D193ECF00A57192 /* primer insignia_00086.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F51D193ECF00A57192 /* primer insignia_00086.png */; };
-		7A10186B1D193ECF00A57192 /* primer insignia_00087.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F61D193ECF00A57192 /* primer insignia_00087.png */; };
-		7A10186C1D193ECF00A57192 /* primer insignia_00088.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F71D193ECF00A57192 /* primer insignia_00088.png */; };
-		7A10186D1D193ECF00A57192 /* primer insignia_00089.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F81D193ECF00A57192 /* primer insignia_00089.png */; };
-		7A10186E1D193ECF00A57192 /* primer insignia_00090.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017F91D193ECF00A57192 /* primer insignia_00090.png */; };
-		7A10186F1D193ECF00A57192 /* primer insignia_00091.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017FA1D193ECF00A57192 /* primer insignia_00091.png */; };
-		7A1018701D193ECF00A57192 /* primer insignia_00092.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017FB1D193ECF00A57192 /* primer insignia_00092.png */; };
-		7A1018711D193ECF00A57192 /* primer insignia_00093.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017FC1D193ECF00A57192 /* primer insignia_00093.png */; };
-		7A1018721D193ECF00A57192 /* primer insignia_00094.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017FD1D193ECF00A57192 /* primer insignia_00094.png */; };
-		7A1018731D193ECF00A57192 /* primer insignia_00095.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017FE1D193ECF00A57192 /* primer insignia_00095.png */; };
-		7A1018741D193ECF00A57192 /* primer insignia_00096.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1017FF1D193ECF00A57192 /* primer insignia_00096.png */; };
-		7A1018751D193ECF00A57192 /* primer insignia_00097.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018001D193ECF00A57192 /* primer insignia_00097.png */; };
-		7A1018761D193ECF00A57192 /* primer insignia_00098.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018011D193ECF00A57192 /* primer insignia_00098.png */; };
-		7A1018771D193ECF00A57192 /* primer insignia_00099.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018021D193ECF00A57192 /* primer insignia_00099.png */; };
-		7A1018781D193ECF00A57192 /* primer insignia_00100.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018031D193ECF00A57192 /* primer insignia_00100.png */; };
-		7A1018791D193ECF00A57192 /* primer insignia_00101.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018041D193ECF00A57192 /* primer insignia_00101.png */; };
-		7A10187A1D193ECF00A57192 /* primer insignia_00102.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018051D193ECF00A57192 /* primer insignia_00102.png */; };
-		7A10187B1D193ECF00A57192 /* primer insignia_00103.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018061D193ECF00A57192 /* primer insignia_00103.png */; };
-		7A10187C1D193ECF00A57192 /* primer insignia_00104.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018071D193ECF00A57192 /* primer insignia_00104.png */; };
-		7A10187D1D193ECF00A57192 /* primer insignia_00105.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018081D193ECF00A57192 /* primer insignia_00105.png */; };
-		7A10187E1D193ECF00A57192 /* primer insignia_00106.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018091D193ECF00A57192 /* primer insignia_00106.png */; };
-		7A10187F1D193ECF00A57192 /* primer insignia_00107.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A10180A1D193ECF00A57192 /* primer insignia_00107.png */; };
-		7A1018801D193ECF00A57192 /* primer insignia_00108.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A10180B1D193ECF00A57192 /* primer insignia_00108.png */; };
-		7A1018811D193ECF00A57192 /* primer insignia_00109.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A10180C1D193ECF00A57192 /* primer insignia_00109.png */; };
-		7A1018821D193ECF00A57192 /* primer insignia_00110.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A10180D1D193ECF00A57192 /* primer insignia_00110.png */; };
-		7A1018831D193ECF00A57192 /* primer insignia_00111.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A10180E1D193ECF00A57192 /* primer insignia_00111.png */; };
-		7A1018841D193ECF00A57192 /* primer insignia_00112.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A10180F1D193ECF00A57192 /* primer insignia_00112.png */; };
-		7A1018851D193ECF00A57192 /* primer insignia_00113.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018101D193ECF00A57192 /* primer insignia_00113.png */; };
-		7A1018861D193ECF00A57192 /* primer insignia_00114.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018111D193ECF00A57192 /* primer insignia_00114.png */; };
-		7A1018871D193ECF00A57192 /* primer insignia_00115.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018121D193ECF00A57192 /* primer insignia_00115.png */; };
-		7A1018881D193ECF00A57192 /* primer insignia_00116.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A1018131D193ECF00A57192 /* primer insignia_00116.png */; };
 		7A10188A1D193F7C00A57192 /* BadgeAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1018891D193F7C00A57192 /* BadgeAnimation.swift */; };
 		7A551BB31D19352600B95E26 /* camera_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A551BB01D19352600B95E26 /* camera_icon.png */; };
 		7A551BB41D19352600B95E26 /* camera_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A551BB11D19352600B95E26 /* camera_icon@2x.png */; };
@@ -152,6 +50,110 @@
 		7ACA5C6F1D19309900728030 /* bg-login@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ACA5C6A1D19309900728030 /* bg-login@3x.png */; };
 		7AFF62D91D1947BA00EB2866 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AFF62D81D1947BA00EB2866 /* ProfileViewController.swift */; };
 		7AFF62DC1D194E1E00EB2866 /* profile_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62DB1D194E1E00EB2866 /* profile_bg.png */; };
+		7AFF62DE1D19684C00EB2866 /* FriendTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AFF62DD1D19684C00EB2866 /* FriendTableViewCell.swift */; };
+		7AFF62E01D1968BC00EB2866 /* HeaderProfileTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AFF62DF1D1968BC00EB2866 /* HeaderProfileTableViewCell.swift */; };
+		7AFF62E21D1968D800EB2866 /* BadgesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AFF62E11D1968D800EB2866 /* BadgesTableViewCell.swift */; };
+		7AFF633D1D197ACC00EB2866 /* insignia1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62E41D197ACC00EB2866 /* insignia1.png */; };
+		7AFF633E1D197ACC00EB2866 /* insignia10.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62E51D197ACC00EB2866 /* insignia10.png */; };
+		7AFF633F1D197ACC00EB2866 /* insignia11.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62E61D197ACC00EB2866 /* insignia11.png */; };
+		7AFF63401D197ACC00EB2866 /* insignia12.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62E71D197ACC00EB2866 /* insignia12.png */; };
+		7AFF63411D197ACC00EB2866 /* insignia13.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62E81D197ACC00EB2866 /* insignia13.png */; };
+		7AFF63421D197ACC00EB2866 /* insignia14.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62E91D197ACC00EB2866 /* insignia14.png */; };
+		7AFF63431D197ACC00EB2866 /* insignia15.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62EA1D197ACC00EB2866 /* insignia15.png */; };
+		7AFF63441D197ACC00EB2866 /* insignia16.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62EB1D197ACC00EB2866 /* insignia16.png */; };
+		7AFF63451D197ACC00EB2866 /* insignia17.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62EC1D197ACC00EB2866 /* insignia17.png */; };
+		7AFF63461D197ACC00EB2866 /* insignia18.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62ED1D197ACC00EB2866 /* insignia18.png */; };
+		7AFF63471D197ACC00EB2866 /* insignia19.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62EE1D197ACC00EB2866 /* insignia19.png */; };
+		7AFF63481D197ACC00EB2866 /* insignia2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62EF1D197ACC00EB2866 /* insignia2.png */; };
+		7AFF63491D197ACC00EB2866 /* insignia20.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F01D197ACC00EB2866 /* insignia20.png */; };
+		7AFF634A1D197ACC00EB2866 /* insignia21.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F11D197ACC00EB2866 /* insignia21.png */; };
+		7AFF634B1D197ACC00EB2866 /* insignia22.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F21D197ACC00EB2866 /* insignia22.png */; };
+		7AFF634C1D197ACC00EB2866 /* insignia23.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F31D197ACC00EB2866 /* insignia23.png */; };
+		7AFF634D1D197ACC00EB2866 /* insignia24.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F41D197ACC00EB2866 /* insignia24.png */; };
+		7AFF634E1D197ACC00EB2866 /* insignia25.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F51D197ACC00EB2866 /* insignia25.png */; };
+		7AFF634F1D197ACC00EB2866 /* insignia26.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F61D197ACC00EB2866 /* insignia26.png */; };
+		7AFF63501D197ACC00EB2866 /* insignia27.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F71D197ACC00EB2866 /* insignia27.png */; };
+		7AFF63511D197ACC00EB2866 /* insignia28.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F81D197ACC00EB2866 /* insignia28.png */; };
+		7AFF63521D197ACC00EB2866 /* insignia29.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62F91D197ACC00EB2866 /* insignia29.png */; };
+		7AFF63531D197ACC00EB2866 /* insignia3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62FA1D197ACC00EB2866 /* insignia3.png */; };
+		7AFF63541D197ACC00EB2866 /* insignia30.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62FB1D197ACC00EB2866 /* insignia30.png */; };
+		7AFF63551D197ACC00EB2866 /* insignia31.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62FC1D197ACC00EB2866 /* insignia31.png */; };
+		7AFF63561D197ACC00EB2866 /* insignia32.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62FD1D197ACC00EB2866 /* insignia32.png */; };
+		7AFF63571D197ACC00EB2866 /* insignia33.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62FE1D197ACC00EB2866 /* insignia33.png */; };
+		7AFF63581D197ACC00EB2866 /* insignia34.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF62FF1D197ACC00EB2866 /* insignia34.png */; };
+		7AFF63591D197ACC00EB2866 /* insignia35.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63001D197ACC00EB2866 /* insignia35.png */; };
+		7AFF635A1D197ACC00EB2866 /* insignia36.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63011D197ACC00EB2866 /* insignia36.png */; };
+		7AFF635B1D197ACC00EB2866 /* insignia37.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63021D197ACC00EB2866 /* insignia37.png */; };
+		7AFF635C1D197ACC00EB2866 /* insignia38.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63031D197ACC00EB2866 /* insignia38.png */; };
+		7AFF635D1D197ACC00EB2866 /* insignia39.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63041D197ACC00EB2866 /* insignia39.png */; };
+		7AFF635E1D197ACC00EB2866 /* insignia4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63051D197ACC00EB2866 /* insignia4.png */; };
+		7AFF635F1D197ACC00EB2866 /* insignia40.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63061D197ACC00EB2866 /* insignia40.png */; };
+		7AFF63601D197ACC00EB2866 /* insignia41.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63071D197ACC00EB2866 /* insignia41.png */; };
+		7AFF63611D197ACC00EB2866 /* insignia42.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63081D197ACC00EB2866 /* insignia42.png */; };
+		7AFF63621D197ACC00EB2866 /* insignia43.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63091D197ACC00EB2866 /* insignia43.png */; };
+		7AFF63631D197ACC00EB2866 /* insignia44.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF630A1D197ACC00EB2866 /* insignia44.png */; };
+		7AFF63641D197ACC00EB2866 /* insignia45.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF630B1D197ACC00EB2866 /* insignia45.png */; };
+		7AFF63651D197ACC00EB2866 /* insignia46.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF630C1D197ACC00EB2866 /* insignia46.png */; };
+		7AFF63661D197ACC00EB2866 /* insignia47.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF630D1D197ACC00EB2866 /* insignia47.png */; };
+		7AFF63671D197ACC00EB2866 /* insignia48.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF630E1D197ACC00EB2866 /* insignia48.png */; };
+		7AFF63681D197ACC00EB2866 /* insignia49.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF630F1D197ACC00EB2866 /* insignia49.png */; };
+		7AFF63691D197ACC00EB2866 /* insignia5.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63101D197ACC00EB2866 /* insignia5.png */; };
+		7AFF636A1D197ACC00EB2866 /* insignia50.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63111D197ACC00EB2866 /* insignia50.png */; };
+		7AFF636B1D197ACC00EB2866 /* insignia51.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63121D197ACC00EB2866 /* insignia51.png */; };
+		7AFF636C1D197ACC00EB2866 /* insignia52.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63131D197ACC00EB2866 /* insignia52.png */; };
+		7AFF636D1D197ACC00EB2866 /* insignia53.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63141D197ACC00EB2866 /* insignia53.png */; };
+		7AFF636E1D197ACC00EB2866 /* insignia54.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63151D197ACC00EB2866 /* insignia54.png */; };
+		7AFF636F1D197ACC00EB2866 /* insignia55.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63161D197ACC00EB2866 /* insignia55.png */; };
+		7AFF63701D197ACC00EB2866 /* insignia56.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63171D197ACC00EB2866 /* insignia56.png */; };
+		7AFF63711D197ACC00EB2866 /* insignia57.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63181D197ACC00EB2866 /* insignia57.png */; };
+		7AFF63721D197ACC00EB2866 /* insignia58.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63191D197ACC00EB2866 /* insignia58.png */; };
+		7AFF63731D197ACC00EB2866 /* insignia59.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF631A1D197ACC00EB2866 /* insignia59.png */; };
+		7AFF63741D197ACC00EB2866 /* insignia6.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF631B1D197ACC00EB2866 /* insignia6.png */; };
+		7AFF63751D197ACC00EB2866 /* insignia60.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF631C1D197ACC00EB2866 /* insignia60.png */; };
+		7AFF63761D197ACC00EB2866 /* insignia61.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF631D1D197ACC00EB2866 /* insignia61.png */; };
+		7AFF63771D197ACC00EB2866 /* insignia62.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF631E1D197ACC00EB2866 /* insignia62.png */; };
+		7AFF63781D197ACC00EB2866 /* insignia63.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF631F1D197ACC00EB2866 /* insignia63.png */; };
+		7AFF63791D197ACC00EB2866 /* insignia64.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63201D197ACC00EB2866 /* insignia64.png */; };
+		7AFF637A1D197ACC00EB2866 /* insignia65.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63211D197ACC00EB2866 /* insignia65.png */; };
+		7AFF637B1D197ACC00EB2866 /* insignia66.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63221D197ACC00EB2866 /* insignia66.png */; };
+		7AFF637C1D197ACC00EB2866 /* insignia67.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63231D197ACC00EB2866 /* insignia67.png */; };
+		7AFF637D1D197ACC00EB2866 /* insignia68.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63241D197ACC00EB2866 /* insignia68.png */; };
+		7AFF637E1D197ACC00EB2866 /* insignia69.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63251D197ACC00EB2866 /* insignia69.png */; };
+		7AFF637F1D197ACC00EB2866 /* insignia7.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63261D197ACC00EB2866 /* insignia7.png */; };
+		7AFF63801D197ACC00EB2866 /* insignia70.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63271D197ACC00EB2866 /* insignia70.png */; };
+		7AFF63811D197ACC00EB2866 /* insignia71.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63281D197ACC00EB2866 /* insignia71.png */; };
+		7AFF63821D197ACC00EB2866 /* insignia72.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63291D197ACC00EB2866 /* insignia72.png */; };
+		7AFF63831D197ACC00EB2866 /* insignia73.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF632A1D197ACC00EB2866 /* insignia73.png */; };
+		7AFF63841D197ACC00EB2866 /* insignia74.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF632B1D197ACC00EB2866 /* insignia74.png */; };
+		7AFF63851D197ACC00EB2866 /* insignia75.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF632C1D197ACC00EB2866 /* insignia75.png */; };
+		7AFF63861D197ACC00EB2866 /* insignia76.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF632D1D197ACC00EB2866 /* insignia76.png */; };
+		7AFF63871D197ACC00EB2866 /* insignia77.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF632E1D197ACC00EB2866 /* insignia77.png */; };
+		7AFF63881D197ACC00EB2866 /* insignia78.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF632F1D197ACC00EB2866 /* insignia78.png */; };
+		7AFF63891D197ACC00EB2866 /* insignia79.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63301D197ACC00EB2866 /* insignia79.png */; };
+		7AFF638A1D197ACC00EB2866 /* insignia8.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63311D197ACC00EB2866 /* insignia8.png */; };
+		7AFF638B1D197ACC00EB2866 /* insignia80.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63321D197ACC00EB2866 /* insignia80.png */; };
+		7AFF638C1D197ACC00EB2866 /* insignia81.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63331D197ACC00EB2866 /* insignia81.png */; };
+		7AFF638D1D197ACC00EB2866 /* insignia82.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63341D197ACC00EB2866 /* insignia82.png */; };
+		7AFF638E1D197ACC00EB2866 /* insignia83.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63351D197ACC00EB2866 /* insignia83.png */; };
+		7AFF638F1D197ACC00EB2866 /* insignia84.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63361D197ACC00EB2866 /* insignia84.png */; };
+		7AFF63901D197ACC00EB2866 /* insignia85.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63371D197ACC00EB2866 /* insignia85.png */; };
+		7AFF63911D197ACC00EB2866 /* insignia86.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63381D197ACC00EB2866 /* insignia86.png */; };
+		7AFF63921D197ACC00EB2866 /* insignia87.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63391D197ACC00EB2866 /* insignia87.png */; };
+		7AFF63931D197ACC00EB2866 /* insignia88.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF633A1D197ACC00EB2866 /* insignia88.png */; };
+		7AFF63941D197ACC00EB2866 /* insignia89.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF633B1D197ACC00EB2866 /* insignia89.png */; };
+		7AFF63951D197ACC00EB2866 /* insignia9.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF633C1D197ACC00EB2866 /* insignia9.png */; };
+		7AFF63971D19878800EB2866 /* bgAlert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63961D19878800EB2866 /* bgAlert.jpg */; };
+		7AFF63A41D19947B00EB2866 /* medal1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63991D19947B00EB2866 /* medal1.png */; };
+		7AFF63A51D19947B00EB2866 /* medal1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF639A1D19947B00EB2866 /* medal1@2x.png */; };
+		7AFF63A61D19947B00EB2866 /* medal1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF639B1D19947B00EB2866 /* medal1@3x.png */; };
+		7AFF63A71D19947B00EB2866 /* medal2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF639C1D19947B00EB2866 /* medal2.png */; };
+		7AFF63A81D19947B00EB2866 /* medal2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF639D1D19947B00EB2866 /* medal2@2x.png */; };
+		7AFF63A91D19947B00EB2866 /* medal2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF639E1D19947B00EB2866 /* medal2@3x.png */; };
+		7AFF63AA1D19947B00EB2866 /* badge1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63A01D19947B00EB2866 /* badge1.png */; };
+		7AFF63AB1D19947B00EB2866 /* badge2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63A11D19947B00EB2866 /* badge2.png */; };
+		7AFF63AC1D19947B00EB2866 /* badge3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63A21D19947B00EB2866 /* badge3.png */; };
+		7AFF63AD1D19947B00EB2866 /* badge4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63A31D19947B00EB2866 /* badge4.png */; };
+		7AFF63AF1D19A33400EB2866 /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AFF63AE1D19A33400EB2866 /* Logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -167,108 +169,6 @@
 /* Begin PBXFileReference section */
 		0EC6F220BF3CC3864EE9F7D8 /* Pods-BetaLabs.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetaLabs.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BetaLabs/Pods-BetaLabs.debug.xcconfig"; sourceTree = "<group>"; };
 		312DEE567A2F75948D0951F6 /* Pods_BetaLabs.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BetaLabs.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7A1017AE1D193ECF00A57192 /* primer insignia_00015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00015.png"; sourceTree = "<group>"; };
-		7A1017AF1D193ECF00A57192 /* primer insignia_00016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00016.png"; sourceTree = "<group>"; };
-		7A1017B01D193ECF00A57192 /* primer insignia_00017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00017.png"; sourceTree = "<group>"; };
-		7A1017B11D193ECF00A57192 /* primer insignia_00018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00018.png"; sourceTree = "<group>"; };
-		7A1017B21D193ECF00A57192 /* primer insignia_00019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00019.png"; sourceTree = "<group>"; };
-		7A1017B31D193ECF00A57192 /* primer insignia_00020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00020.png"; sourceTree = "<group>"; };
-		7A1017B41D193ECF00A57192 /* primer insignia_00021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00021.png"; sourceTree = "<group>"; };
-		7A1017B51D193ECF00A57192 /* primer insignia_00022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00022.png"; sourceTree = "<group>"; };
-		7A1017B61D193ECF00A57192 /* primer insignia_00023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00023.png"; sourceTree = "<group>"; };
-		7A1017B71D193ECF00A57192 /* primer insignia_00024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00024.png"; sourceTree = "<group>"; };
-		7A1017B81D193ECF00A57192 /* primer insignia_00025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00025.png"; sourceTree = "<group>"; };
-		7A1017B91D193ECF00A57192 /* primer insignia_00026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00026.png"; sourceTree = "<group>"; };
-		7A1017BA1D193ECF00A57192 /* primer insignia_00027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00027.png"; sourceTree = "<group>"; };
-		7A1017BB1D193ECF00A57192 /* primer insignia_00028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00028.png"; sourceTree = "<group>"; };
-		7A1017BC1D193ECF00A57192 /* primer insignia_00029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00029.png"; sourceTree = "<group>"; };
-		7A1017BD1D193ECF00A57192 /* primer insignia_00030.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00030.png"; sourceTree = "<group>"; };
-		7A1017BE1D193ECF00A57192 /* primer insignia_00031.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00031.png"; sourceTree = "<group>"; };
-		7A1017BF1D193ECF00A57192 /* primer insignia_00032.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00032.png"; sourceTree = "<group>"; };
-		7A1017C01D193ECF00A57192 /* primer insignia_00033.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00033.png"; sourceTree = "<group>"; };
-		7A1017C11D193ECF00A57192 /* primer insignia_00034.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00034.png"; sourceTree = "<group>"; };
-		7A1017C21D193ECF00A57192 /* primer insignia_00035.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00035.png"; sourceTree = "<group>"; };
-		7A1017C31D193ECF00A57192 /* primer insignia_00036.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00036.png"; sourceTree = "<group>"; };
-		7A1017C41D193ECF00A57192 /* primer insignia_00037.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00037.png"; sourceTree = "<group>"; };
-		7A1017C51D193ECF00A57192 /* primer insignia_00038.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00038.png"; sourceTree = "<group>"; };
-		7A1017C61D193ECF00A57192 /* primer insignia_00039.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00039.png"; sourceTree = "<group>"; };
-		7A1017C71D193ECF00A57192 /* primer insignia_00040.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00040.png"; sourceTree = "<group>"; };
-		7A1017C81D193ECF00A57192 /* primer insignia_00041.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00041.png"; sourceTree = "<group>"; };
-		7A1017C91D193ECF00A57192 /* primer insignia_00042.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00042.png"; sourceTree = "<group>"; };
-		7A1017CA1D193ECF00A57192 /* primer insignia_00043.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00043.png"; sourceTree = "<group>"; };
-		7A1017CB1D193ECF00A57192 /* primer insignia_00044.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00044.png"; sourceTree = "<group>"; };
-		7A1017CC1D193ECF00A57192 /* primer insignia_00045.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00045.png"; sourceTree = "<group>"; };
-		7A1017CD1D193ECF00A57192 /* primer insignia_00046.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00046.png"; sourceTree = "<group>"; };
-		7A1017CE1D193ECF00A57192 /* primer insignia_00047.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00047.png"; sourceTree = "<group>"; };
-		7A1017CF1D193ECF00A57192 /* primer insignia_00048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00048.png"; sourceTree = "<group>"; };
-		7A1017D01D193ECF00A57192 /* primer insignia_00049.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00049.png"; sourceTree = "<group>"; };
-		7A1017D11D193ECF00A57192 /* primer insignia_00050.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00050.png"; sourceTree = "<group>"; };
-		7A1017D21D193ECF00A57192 /* primer insignia_00051.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00051.png"; sourceTree = "<group>"; };
-		7A1017D31D193ECF00A57192 /* primer insignia_00052.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00052.png"; sourceTree = "<group>"; };
-		7A1017D41D193ECF00A57192 /* primer insignia_00053.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00053.png"; sourceTree = "<group>"; };
-		7A1017D51D193ECF00A57192 /* primer insignia_00054.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00054.png"; sourceTree = "<group>"; };
-		7A1017D61D193ECF00A57192 /* primer insignia_00055.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00055.png"; sourceTree = "<group>"; };
-		7A1017D71D193ECF00A57192 /* primer insignia_00056.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00056.png"; sourceTree = "<group>"; };
-		7A1017D81D193ECF00A57192 /* primer insignia_00057.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00057.png"; sourceTree = "<group>"; };
-		7A1017D91D193ECF00A57192 /* primer insignia_00058.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00058.png"; sourceTree = "<group>"; };
-		7A1017DA1D193ECF00A57192 /* primer insignia_00059.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00059.png"; sourceTree = "<group>"; };
-		7A1017DB1D193ECF00A57192 /* primer insignia_00060.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00060.png"; sourceTree = "<group>"; };
-		7A1017DC1D193ECF00A57192 /* primer insignia_00061.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00061.png"; sourceTree = "<group>"; };
-		7A1017DD1D193ECF00A57192 /* primer insignia_00062.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00062.png"; sourceTree = "<group>"; };
-		7A1017DE1D193ECF00A57192 /* primer insignia_00063.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00063.png"; sourceTree = "<group>"; };
-		7A1017DF1D193ECF00A57192 /* primer insignia_00064.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00064.png"; sourceTree = "<group>"; };
-		7A1017E01D193ECF00A57192 /* primer insignia_00065.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00065.png"; sourceTree = "<group>"; };
-		7A1017E11D193ECF00A57192 /* primer insignia_00066.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00066.png"; sourceTree = "<group>"; };
-		7A1017E21D193ECF00A57192 /* primer insignia_00067.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00067.png"; sourceTree = "<group>"; };
-		7A1017E31D193ECF00A57192 /* primer insignia_00068.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00068.png"; sourceTree = "<group>"; };
-		7A1017E41D193ECF00A57192 /* primer insignia_00069.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00069.png"; sourceTree = "<group>"; };
-		7A1017E51D193ECF00A57192 /* primer insignia_00070.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00070.png"; sourceTree = "<group>"; };
-		7A1017E61D193ECF00A57192 /* primer insignia_00071.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00071.png"; sourceTree = "<group>"; };
-		7A1017E71D193ECF00A57192 /* primer insignia_00072.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00072.png"; sourceTree = "<group>"; };
-		7A1017E81D193ECF00A57192 /* primer insignia_00073.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00073.png"; sourceTree = "<group>"; };
-		7A1017E91D193ECF00A57192 /* primer insignia_00074.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00074.png"; sourceTree = "<group>"; };
-		7A1017EA1D193ECF00A57192 /* primer insignia_00075.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00075.png"; sourceTree = "<group>"; };
-		7A1017EB1D193ECF00A57192 /* primer insignia_00076.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00076.png"; sourceTree = "<group>"; };
-		7A1017EC1D193ECF00A57192 /* primer insignia_00077.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00077.png"; sourceTree = "<group>"; };
-		7A1017ED1D193ECF00A57192 /* primer insignia_00078.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00078.png"; sourceTree = "<group>"; };
-		7A1017EE1D193ECF00A57192 /* primer insignia_00079.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00079.png"; sourceTree = "<group>"; };
-		7A1017EF1D193ECF00A57192 /* primer insignia_00080.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00080.png"; sourceTree = "<group>"; };
-		7A1017F01D193ECF00A57192 /* primer insignia_00081.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00081.png"; sourceTree = "<group>"; };
-		7A1017F11D193ECF00A57192 /* primer insignia_00082.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00082.png"; sourceTree = "<group>"; };
-		7A1017F21D193ECF00A57192 /* primer insignia_00083.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00083.png"; sourceTree = "<group>"; };
-		7A1017F31D193ECF00A57192 /* primer insignia_00084.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00084.png"; sourceTree = "<group>"; };
-		7A1017F41D193ECF00A57192 /* primer insignia_00085.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00085.png"; sourceTree = "<group>"; };
-		7A1017F51D193ECF00A57192 /* primer insignia_00086.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00086.png"; sourceTree = "<group>"; };
-		7A1017F61D193ECF00A57192 /* primer insignia_00087.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00087.png"; sourceTree = "<group>"; };
-		7A1017F71D193ECF00A57192 /* primer insignia_00088.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00088.png"; sourceTree = "<group>"; };
-		7A1017F81D193ECF00A57192 /* primer insignia_00089.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00089.png"; sourceTree = "<group>"; };
-		7A1017F91D193ECF00A57192 /* primer insignia_00090.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00090.png"; sourceTree = "<group>"; };
-		7A1017FA1D193ECF00A57192 /* primer insignia_00091.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00091.png"; sourceTree = "<group>"; };
-		7A1017FB1D193ECF00A57192 /* primer insignia_00092.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00092.png"; sourceTree = "<group>"; };
-		7A1017FC1D193ECF00A57192 /* primer insignia_00093.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00093.png"; sourceTree = "<group>"; };
-		7A1017FD1D193ECF00A57192 /* primer insignia_00094.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00094.png"; sourceTree = "<group>"; };
-		7A1017FE1D193ECF00A57192 /* primer insignia_00095.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00095.png"; sourceTree = "<group>"; };
-		7A1017FF1D193ECF00A57192 /* primer insignia_00096.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00096.png"; sourceTree = "<group>"; };
-		7A1018001D193ECF00A57192 /* primer insignia_00097.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00097.png"; sourceTree = "<group>"; };
-		7A1018011D193ECF00A57192 /* primer insignia_00098.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00098.png"; sourceTree = "<group>"; };
-		7A1018021D193ECF00A57192 /* primer insignia_00099.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00099.png"; sourceTree = "<group>"; };
-		7A1018031D193ECF00A57192 /* primer insignia_00100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00100.png"; sourceTree = "<group>"; };
-		7A1018041D193ECF00A57192 /* primer insignia_00101.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00101.png"; sourceTree = "<group>"; };
-		7A1018051D193ECF00A57192 /* primer insignia_00102.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00102.png"; sourceTree = "<group>"; };
-		7A1018061D193ECF00A57192 /* primer insignia_00103.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00103.png"; sourceTree = "<group>"; };
-		7A1018071D193ECF00A57192 /* primer insignia_00104.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00104.png"; sourceTree = "<group>"; };
-		7A1018081D193ECF00A57192 /* primer insignia_00105.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00105.png"; sourceTree = "<group>"; };
-		7A1018091D193ECF00A57192 /* primer insignia_00106.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00106.png"; sourceTree = "<group>"; };
-		7A10180A1D193ECF00A57192 /* primer insignia_00107.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00107.png"; sourceTree = "<group>"; };
-		7A10180B1D193ECF00A57192 /* primer insignia_00108.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00108.png"; sourceTree = "<group>"; };
-		7A10180C1D193ECF00A57192 /* primer insignia_00109.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00109.png"; sourceTree = "<group>"; };
-		7A10180D1D193ECF00A57192 /* primer insignia_00110.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00110.png"; sourceTree = "<group>"; };
-		7A10180E1D193ECF00A57192 /* primer insignia_00111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00111.png"; sourceTree = "<group>"; };
-		7A10180F1D193ECF00A57192 /* primer insignia_00112.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00112.png"; sourceTree = "<group>"; };
-		7A1018101D193ECF00A57192 /* primer insignia_00113.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00113.png"; sourceTree = "<group>"; };
-		7A1018111D193ECF00A57192 /* primer insignia_00114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00114.png"; sourceTree = "<group>"; };
-		7A1018121D193ECF00A57192 /* primer insignia_00115.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00115.png"; sourceTree = "<group>"; };
-		7A1018131D193ECF00A57192 /* primer insignia_00116.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "primer insignia_00116.png"; sourceTree = "<group>"; };
 		7A1018891D193F7C00A57192 /* BadgeAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeAnimation.swift; sourceTree = "<group>"; };
 		7A551BB01D19352600B95E26 /* camera_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera_icon.png; sourceTree = "<group>"; };
 		7A551BB11D19352600B95E26 /* camera_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera_icon@2x.png"; sourceTree = "<group>"; };
@@ -315,6 +215,110 @@
 		7ACA5C6A1D19309900728030 /* bg-login@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-login@3x.png"; sourceTree = "<group>"; };
 		7AFF62D81D1947BA00EB2866 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		7AFF62DB1D194E1E00EB2866 /* profile_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_bg.png; sourceTree = "<group>"; };
+		7AFF62DD1D19684C00EB2866 /* FriendTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendTableViewCell.swift; sourceTree = "<group>"; };
+		7AFF62DF1D1968BC00EB2866 /* HeaderProfileTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderProfileTableViewCell.swift; sourceTree = "<group>"; };
+		7AFF62E11D1968D800EB2866 /* BadgesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgesTableViewCell.swift; sourceTree = "<group>"; };
+		7AFF62E41D197ACC00EB2866 /* insignia1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia1.png; sourceTree = "<group>"; };
+		7AFF62E51D197ACC00EB2866 /* insignia10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia10.png; sourceTree = "<group>"; };
+		7AFF62E61D197ACC00EB2866 /* insignia11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia11.png; sourceTree = "<group>"; };
+		7AFF62E71D197ACC00EB2866 /* insignia12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia12.png; sourceTree = "<group>"; };
+		7AFF62E81D197ACC00EB2866 /* insignia13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia13.png; sourceTree = "<group>"; };
+		7AFF62E91D197ACC00EB2866 /* insignia14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia14.png; sourceTree = "<group>"; };
+		7AFF62EA1D197ACC00EB2866 /* insignia15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia15.png; sourceTree = "<group>"; };
+		7AFF62EB1D197ACC00EB2866 /* insignia16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia16.png; sourceTree = "<group>"; };
+		7AFF62EC1D197ACC00EB2866 /* insignia17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia17.png; sourceTree = "<group>"; };
+		7AFF62ED1D197ACC00EB2866 /* insignia18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia18.png; sourceTree = "<group>"; };
+		7AFF62EE1D197ACC00EB2866 /* insignia19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia19.png; sourceTree = "<group>"; };
+		7AFF62EF1D197ACC00EB2866 /* insignia2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia2.png; sourceTree = "<group>"; };
+		7AFF62F01D197ACC00EB2866 /* insignia20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia20.png; sourceTree = "<group>"; };
+		7AFF62F11D197ACC00EB2866 /* insignia21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia21.png; sourceTree = "<group>"; };
+		7AFF62F21D197ACC00EB2866 /* insignia22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia22.png; sourceTree = "<group>"; };
+		7AFF62F31D197ACC00EB2866 /* insignia23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia23.png; sourceTree = "<group>"; };
+		7AFF62F41D197ACC00EB2866 /* insignia24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia24.png; sourceTree = "<group>"; };
+		7AFF62F51D197ACC00EB2866 /* insignia25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia25.png; sourceTree = "<group>"; };
+		7AFF62F61D197ACC00EB2866 /* insignia26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia26.png; sourceTree = "<group>"; };
+		7AFF62F71D197ACC00EB2866 /* insignia27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia27.png; sourceTree = "<group>"; };
+		7AFF62F81D197ACC00EB2866 /* insignia28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia28.png; sourceTree = "<group>"; };
+		7AFF62F91D197ACC00EB2866 /* insignia29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia29.png; sourceTree = "<group>"; };
+		7AFF62FA1D197ACC00EB2866 /* insignia3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia3.png; sourceTree = "<group>"; };
+		7AFF62FB1D197ACC00EB2866 /* insignia30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia30.png; sourceTree = "<group>"; };
+		7AFF62FC1D197ACC00EB2866 /* insignia31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia31.png; sourceTree = "<group>"; };
+		7AFF62FD1D197ACC00EB2866 /* insignia32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia32.png; sourceTree = "<group>"; };
+		7AFF62FE1D197ACC00EB2866 /* insignia33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia33.png; sourceTree = "<group>"; };
+		7AFF62FF1D197ACC00EB2866 /* insignia34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia34.png; sourceTree = "<group>"; };
+		7AFF63001D197ACC00EB2866 /* insignia35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia35.png; sourceTree = "<group>"; };
+		7AFF63011D197ACC00EB2866 /* insignia36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia36.png; sourceTree = "<group>"; };
+		7AFF63021D197ACC00EB2866 /* insignia37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia37.png; sourceTree = "<group>"; };
+		7AFF63031D197ACC00EB2866 /* insignia38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia38.png; sourceTree = "<group>"; };
+		7AFF63041D197ACC00EB2866 /* insignia39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia39.png; sourceTree = "<group>"; };
+		7AFF63051D197ACC00EB2866 /* insignia4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia4.png; sourceTree = "<group>"; };
+		7AFF63061D197ACC00EB2866 /* insignia40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia40.png; sourceTree = "<group>"; };
+		7AFF63071D197ACC00EB2866 /* insignia41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia41.png; sourceTree = "<group>"; };
+		7AFF63081D197ACC00EB2866 /* insignia42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia42.png; sourceTree = "<group>"; };
+		7AFF63091D197ACC00EB2866 /* insignia43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia43.png; sourceTree = "<group>"; };
+		7AFF630A1D197ACC00EB2866 /* insignia44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia44.png; sourceTree = "<group>"; };
+		7AFF630B1D197ACC00EB2866 /* insignia45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia45.png; sourceTree = "<group>"; };
+		7AFF630C1D197ACC00EB2866 /* insignia46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia46.png; sourceTree = "<group>"; };
+		7AFF630D1D197ACC00EB2866 /* insignia47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia47.png; sourceTree = "<group>"; };
+		7AFF630E1D197ACC00EB2866 /* insignia48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia48.png; sourceTree = "<group>"; };
+		7AFF630F1D197ACC00EB2866 /* insignia49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia49.png; sourceTree = "<group>"; };
+		7AFF63101D197ACC00EB2866 /* insignia5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia5.png; sourceTree = "<group>"; };
+		7AFF63111D197ACC00EB2866 /* insignia50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia50.png; sourceTree = "<group>"; };
+		7AFF63121D197ACC00EB2866 /* insignia51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia51.png; sourceTree = "<group>"; };
+		7AFF63131D197ACC00EB2866 /* insignia52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia52.png; sourceTree = "<group>"; };
+		7AFF63141D197ACC00EB2866 /* insignia53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia53.png; sourceTree = "<group>"; };
+		7AFF63151D197ACC00EB2866 /* insignia54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia54.png; sourceTree = "<group>"; };
+		7AFF63161D197ACC00EB2866 /* insignia55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia55.png; sourceTree = "<group>"; };
+		7AFF63171D197ACC00EB2866 /* insignia56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia56.png; sourceTree = "<group>"; };
+		7AFF63181D197ACC00EB2866 /* insignia57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia57.png; sourceTree = "<group>"; };
+		7AFF63191D197ACC00EB2866 /* insignia58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia58.png; sourceTree = "<group>"; };
+		7AFF631A1D197ACC00EB2866 /* insignia59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia59.png; sourceTree = "<group>"; };
+		7AFF631B1D197ACC00EB2866 /* insignia6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia6.png; sourceTree = "<group>"; };
+		7AFF631C1D197ACC00EB2866 /* insignia60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia60.png; sourceTree = "<group>"; };
+		7AFF631D1D197ACC00EB2866 /* insignia61.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia61.png; sourceTree = "<group>"; };
+		7AFF631E1D197ACC00EB2866 /* insignia62.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia62.png; sourceTree = "<group>"; };
+		7AFF631F1D197ACC00EB2866 /* insignia63.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia63.png; sourceTree = "<group>"; };
+		7AFF63201D197ACC00EB2866 /* insignia64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia64.png; sourceTree = "<group>"; };
+		7AFF63211D197ACC00EB2866 /* insignia65.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia65.png; sourceTree = "<group>"; };
+		7AFF63221D197ACC00EB2866 /* insignia66.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia66.png; sourceTree = "<group>"; };
+		7AFF63231D197ACC00EB2866 /* insignia67.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia67.png; sourceTree = "<group>"; };
+		7AFF63241D197ACC00EB2866 /* insignia68.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia68.png; sourceTree = "<group>"; };
+		7AFF63251D197ACC00EB2866 /* insignia69.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia69.png; sourceTree = "<group>"; };
+		7AFF63261D197ACC00EB2866 /* insignia7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia7.png; sourceTree = "<group>"; };
+		7AFF63271D197ACC00EB2866 /* insignia70.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia70.png; sourceTree = "<group>"; };
+		7AFF63281D197ACC00EB2866 /* insignia71.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia71.png; sourceTree = "<group>"; };
+		7AFF63291D197ACC00EB2866 /* insignia72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia72.png; sourceTree = "<group>"; };
+		7AFF632A1D197ACC00EB2866 /* insignia73.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia73.png; sourceTree = "<group>"; };
+		7AFF632B1D197ACC00EB2866 /* insignia74.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia74.png; sourceTree = "<group>"; };
+		7AFF632C1D197ACC00EB2866 /* insignia75.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia75.png; sourceTree = "<group>"; };
+		7AFF632D1D197ACC00EB2866 /* insignia76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia76.png; sourceTree = "<group>"; };
+		7AFF632E1D197ACC00EB2866 /* insignia77.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia77.png; sourceTree = "<group>"; };
+		7AFF632F1D197ACC00EB2866 /* insignia78.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia78.png; sourceTree = "<group>"; };
+		7AFF63301D197ACC00EB2866 /* insignia79.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia79.png; sourceTree = "<group>"; };
+		7AFF63311D197ACC00EB2866 /* insignia8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia8.png; sourceTree = "<group>"; };
+		7AFF63321D197ACC00EB2866 /* insignia80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia80.png; sourceTree = "<group>"; };
+		7AFF63331D197ACC00EB2866 /* insignia81.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia81.png; sourceTree = "<group>"; };
+		7AFF63341D197ACC00EB2866 /* insignia82.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia82.png; sourceTree = "<group>"; };
+		7AFF63351D197ACC00EB2866 /* insignia83.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia83.png; sourceTree = "<group>"; };
+		7AFF63361D197ACC00EB2866 /* insignia84.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia84.png; sourceTree = "<group>"; };
+		7AFF63371D197ACC00EB2866 /* insignia85.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia85.png; sourceTree = "<group>"; };
+		7AFF63381D197ACC00EB2866 /* insignia86.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia86.png; sourceTree = "<group>"; };
+		7AFF63391D197ACC00EB2866 /* insignia87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia87.png; sourceTree = "<group>"; };
+		7AFF633A1D197ACC00EB2866 /* insignia88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia88.png; sourceTree = "<group>"; };
+		7AFF633B1D197ACC00EB2866 /* insignia89.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia89.png; sourceTree = "<group>"; };
+		7AFF633C1D197ACC00EB2866 /* insignia9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = insignia9.png; sourceTree = "<group>"; };
+		7AFF63961D19878800EB2866 /* bgAlert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bgAlert.jpg; sourceTree = "<group>"; };
+		7AFF63991D19947B00EB2866 /* medal1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medal1.png; sourceTree = "<group>"; };
+		7AFF639A1D19947B00EB2866 /* medal1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "medal1@2x.png"; sourceTree = "<group>"; };
+		7AFF639B1D19947B00EB2866 /* medal1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "medal1@3x.png"; sourceTree = "<group>"; };
+		7AFF639C1D19947B00EB2866 /* medal2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medal2.png; sourceTree = "<group>"; };
+		7AFF639D1D19947B00EB2866 /* medal2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "medal2@2x.png"; sourceTree = "<group>"; };
+		7AFF639E1D19947B00EB2866 /* medal2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "medal2@3x.png"; sourceTree = "<group>"; };
+		7AFF63A01D19947B00EB2866 /* badge1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = badge1.png; sourceTree = "<group>"; };
+		7AFF63A11D19947B00EB2866 /* badge2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = badge2.png; sourceTree = "<group>"; };
+		7AFF63A21D19947B00EB2866 /* badge3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = badge3.png; sourceTree = "<group>"; };
+		7AFF63A31D19947B00EB2866 /* badge4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = badge4.png; sourceTree = "<group>"; };
+		7AFF63AE1D19A33400EB2866 /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
 		E851616D66061B5A02A31EF6 /* Pods-BetaLabs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetaLabs.release.xcconfig"; path = "Pods/Target Support Files/Pods-BetaLabs/Pods-BetaLabs.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -344,115 +348,6 @@
 				E851616D66061B5A02A31EF6 /* Pods-BetaLabs.release.xcconfig */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		7A10179E1D193ECF00A57192 /* fst_animation */ = {
-			isa = PBXGroup;
-			children = (
-				7A1017AE1D193ECF00A57192 /* primer insignia_00015.png */,
-				7A1017AF1D193ECF00A57192 /* primer insignia_00016.png */,
-				7A1017B01D193ECF00A57192 /* primer insignia_00017.png */,
-				7A1017B11D193ECF00A57192 /* primer insignia_00018.png */,
-				7A1017B21D193ECF00A57192 /* primer insignia_00019.png */,
-				7A1017B31D193ECF00A57192 /* primer insignia_00020.png */,
-				7A1017B41D193ECF00A57192 /* primer insignia_00021.png */,
-				7A1017B51D193ECF00A57192 /* primer insignia_00022.png */,
-				7A1017B61D193ECF00A57192 /* primer insignia_00023.png */,
-				7A1017B71D193ECF00A57192 /* primer insignia_00024.png */,
-				7A1017B81D193ECF00A57192 /* primer insignia_00025.png */,
-				7A1017B91D193ECF00A57192 /* primer insignia_00026.png */,
-				7A1017BA1D193ECF00A57192 /* primer insignia_00027.png */,
-				7A1017BB1D193ECF00A57192 /* primer insignia_00028.png */,
-				7A1017BC1D193ECF00A57192 /* primer insignia_00029.png */,
-				7A1017BD1D193ECF00A57192 /* primer insignia_00030.png */,
-				7A1017BE1D193ECF00A57192 /* primer insignia_00031.png */,
-				7A1017BF1D193ECF00A57192 /* primer insignia_00032.png */,
-				7A1017C01D193ECF00A57192 /* primer insignia_00033.png */,
-				7A1017C11D193ECF00A57192 /* primer insignia_00034.png */,
-				7A1017C21D193ECF00A57192 /* primer insignia_00035.png */,
-				7A1017C31D193ECF00A57192 /* primer insignia_00036.png */,
-				7A1017C41D193ECF00A57192 /* primer insignia_00037.png */,
-				7A1017C51D193ECF00A57192 /* primer insignia_00038.png */,
-				7A1017C61D193ECF00A57192 /* primer insignia_00039.png */,
-				7A1017C71D193ECF00A57192 /* primer insignia_00040.png */,
-				7A1017C81D193ECF00A57192 /* primer insignia_00041.png */,
-				7A1017C91D193ECF00A57192 /* primer insignia_00042.png */,
-				7A1017CA1D193ECF00A57192 /* primer insignia_00043.png */,
-				7A1017CB1D193ECF00A57192 /* primer insignia_00044.png */,
-				7A1017CC1D193ECF00A57192 /* primer insignia_00045.png */,
-				7A1017CD1D193ECF00A57192 /* primer insignia_00046.png */,
-				7A1017CE1D193ECF00A57192 /* primer insignia_00047.png */,
-				7A1017CF1D193ECF00A57192 /* primer insignia_00048.png */,
-				7A1017D01D193ECF00A57192 /* primer insignia_00049.png */,
-				7A1017D11D193ECF00A57192 /* primer insignia_00050.png */,
-				7A1017D21D193ECF00A57192 /* primer insignia_00051.png */,
-				7A1017D31D193ECF00A57192 /* primer insignia_00052.png */,
-				7A1017D41D193ECF00A57192 /* primer insignia_00053.png */,
-				7A1017D51D193ECF00A57192 /* primer insignia_00054.png */,
-				7A1017D61D193ECF00A57192 /* primer insignia_00055.png */,
-				7A1017D71D193ECF00A57192 /* primer insignia_00056.png */,
-				7A1017D81D193ECF00A57192 /* primer insignia_00057.png */,
-				7A1017D91D193ECF00A57192 /* primer insignia_00058.png */,
-				7A1017DA1D193ECF00A57192 /* primer insignia_00059.png */,
-				7A1017DB1D193ECF00A57192 /* primer insignia_00060.png */,
-				7A1017DC1D193ECF00A57192 /* primer insignia_00061.png */,
-				7A1017DD1D193ECF00A57192 /* primer insignia_00062.png */,
-				7A1017DE1D193ECF00A57192 /* primer insignia_00063.png */,
-				7A1017DF1D193ECF00A57192 /* primer insignia_00064.png */,
-				7A1017E01D193ECF00A57192 /* primer insignia_00065.png */,
-				7A1017E11D193ECF00A57192 /* primer insignia_00066.png */,
-				7A1017E21D193ECF00A57192 /* primer insignia_00067.png */,
-				7A1017E31D193ECF00A57192 /* primer insignia_00068.png */,
-				7A1017E41D193ECF00A57192 /* primer insignia_00069.png */,
-				7A1017E51D193ECF00A57192 /* primer insignia_00070.png */,
-				7A1017E61D193ECF00A57192 /* primer insignia_00071.png */,
-				7A1017E71D193ECF00A57192 /* primer insignia_00072.png */,
-				7A1017E81D193ECF00A57192 /* primer insignia_00073.png */,
-				7A1017E91D193ECF00A57192 /* primer insignia_00074.png */,
-				7A1017EA1D193ECF00A57192 /* primer insignia_00075.png */,
-				7A1017EB1D193ECF00A57192 /* primer insignia_00076.png */,
-				7A1017EC1D193ECF00A57192 /* primer insignia_00077.png */,
-				7A1017ED1D193ECF00A57192 /* primer insignia_00078.png */,
-				7A1017EE1D193ECF00A57192 /* primer insignia_00079.png */,
-				7A1017EF1D193ECF00A57192 /* primer insignia_00080.png */,
-				7A1017F01D193ECF00A57192 /* primer insignia_00081.png */,
-				7A1017F11D193ECF00A57192 /* primer insignia_00082.png */,
-				7A1017F21D193ECF00A57192 /* primer insignia_00083.png */,
-				7A1017F31D193ECF00A57192 /* primer insignia_00084.png */,
-				7A1017F41D193ECF00A57192 /* primer insignia_00085.png */,
-				7A1017F51D193ECF00A57192 /* primer insignia_00086.png */,
-				7A1017F61D193ECF00A57192 /* primer insignia_00087.png */,
-				7A1017F71D193ECF00A57192 /* primer insignia_00088.png */,
-				7A1017F81D193ECF00A57192 /* primer insignia_00089.png */,
-				7A1017F91D193ECF00A57192 /* primer insignia_00090.png */,
-				7A1017FA1D193ECF00A57192 /* primer insignia_00091.png */,
-				7A1017FB1D193ECF00A57192 /* primer insignia_00092.png */,
-				7A1017FC1D193ECF00A57192 /* primer insignia_00093.png */,
-				7A1017FD1D193ECF00A57192 /* primer insignia_00094.png */,
-				7A1017FE1D193ECF00A57192 /* primer insignia_00095.png */,
-				7A1017FF1D193ECF00A57192 /* primer insignia_00096.png */,
-				7A1018001D193ECF00A57192 /* primer insignia_00097.png */,
-				7A1018011D193ECF00A57192 /* primer insignia_00098.png */,
-				7A1018021D193ECF00A57192 /* primer insignia_00099.png */,
-				7A1018031D193ECF00A57192 /* primer insignia_00100.png */,
-				7A1018041D193ECF00A57192 /* primer insignia_00101.png */,
-				7A1018051D193ECF00A57192 /* primer insignia_00102.png */,
-				7A1018061D193ECF00A57192 /* primer insignia_00103.png */,
-				7A1018071D193ECF00A57192 /* primer insignia_00104.png */,
-				7A1018081D193ECF00A57192 /* primer insignia_00105.png */,
-				7A1018091D193ECF00A57192 /* primer insignia_00106.png */,
-				7A10180A1D193ECF00A57192 /* primer insignia_00107.png */,
-				7A10180B1D193ECF00A57192 /* primer insignia_00108.png */,
-				7A10180C1D193ECF00A57192 /* primer insignia_00109.png */,
-				7A10180D1D193ECF00A57192 /* primer insignia_00110.png */,
-				7A10180E1D193ECF00A57192 /* primer insignia_00111.png */,
-				7A10180F1D193ECF00A57192 /* primer insignia_00112.png */,
-				7A1018101D193ECF00A57192 /* primer insignia_00113.png */,
-				7A1018111D193ECF00A57192 /* primer insignia_00114.png */,
-				7A1018121D193ECF00A57192 /* primer insignia_00115.png */,
-				7A1018131D193ECF00A57192 /* primer insignia_00116.png */,
-			);
-			path = fst_animation;
 			sourceTree = "<group>";
 		};
 		7AC654101D188F7700D456B0 = {
@@ -518,8 +413,11 @@
 		7AC654431D18ADA700D456B0 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				7AFF63981D19947B00EB2866 /* medal */,
+				7AFF639F1D19947B00EB2866 /* badges */,
+				7AFF63961D19878800EB2866 /* bgAlert.jpg */,
+				7AFF62E31D197ACC00EB2866 /* fst_animation */,
 				7AFF62DB1D194E1E00EB2866 /* profile_bg.png */,
-				7A10179E1D193ECF00A57192 /* fst_animation */,
 				7A551BB61D193C4300B95E26 /* pin_placeholder.png */,
 				7A551BB71D193C4300B95E26 /* pin_placeholder@2x.png */,
 				7A551BB81D193C4300B95E26 /* pin_placeholder@3x.png */,
@@ -533,6 +431,7 @@
 				7ACA5C6A1D19309900728030 /* bg-login@3x.png */,
 				7ACA5C4B1D18FE9000728030 /* profile.png */,
 				7ACA5C4C1D18FE9000728030 /* profile@2x.png */,
+				7AFF63AE1D19A33400EB2866 /* Logo.png */,
 				7ACA5C4D1D18FE9000728030 /* profile@3x.png */,
 				7ACA5C4E1D18FE9000728030 /* map.png */,
 				7ACA5C4F1D18FE9000728030 /* map@2x.png */,
@@ -562,8 +461,131 @@
 				7ACA5C5E1D19069F00728030 /* DetailReport.swift */,
 				7ACA5C641D19244300728030 /* ReportTableViewCell.swift */,
 				7A1018891D193F7C00A57192 /* BadgeAnimation.swift */,
+				7AFF62DD1D19684C00EB2866 /* FriendTableViewCell.swift */,
+				7AFF62DF1D1968BC00EB2866 /* HeaderProfileTableViewCell.swift */,
+				7AFF62E11D1968D800EB2866 /* BadgesTableViewCell.swift */,
 			);
 			path = Components;
+			sourceTree = "<group>";
+		};
+		7AFF62E31D197ACC00EB2866 /* fst_animation */ = {
+			isa = PBXGroup;
+			children = (
+				7AFF62E41D197ACC00EB2866 /* insignia1.png */,
+				7AFF62E51D197ACC00EB2866 /* insignia10.png */,
+				7AFF62E61D197ACC00EB2866 /* insignia11.png */,
+				7AFF62E71D197ACC00EB2866 /* insignia12.png */,
+				7AFF62E81D197ACC00EB2866 /* insignia13.png */,
+				7AFF62E91D197ACC00EB2866 /* insignia14.png */,
+				7AFF62EA1D197ACC00EB2866 /* insignia15.png */,
+				7AFF62EB1D197ACC00EB2866 /* insignia16.png */,
+				7AFF62EC1D197ACC00EB2866 /* insignia17.png */,
+				7AFF62ED1D197ACC00EB2866 /* insignia18.png */,
+				7AFF62EE1D197ACC00EB2866 /* insignia19.png */,
+				7AFF62EF1D197ACC00EB2866 /* insignia2.png */,
+				7AFF62F01D197ACC00EB2866 /* insignia20.png */,
+				7AFF62F11D197ACC00EB2866 /* insignia21.png */,
+				7AFF62F21D197ACC00EB2866 /* insignia22.png */,
+				7AFF62F31D197ACC00EB2866 /* insignia23.png */,
+				7AFF62F41D197ACC00EB2866 /* insignia24.png */,
+				7AFF62F51D197ACC00EB2866 /* insignia25.png */,
+				7AFF62F61D197ACC00EB2866 /* insignia26.png */,
+				7AFF62F71D197ACC00EB2866 /* insignia27.png */,
+				7AFF62F81D197ACC00EB2866 /* insignia28.png */,
+				7AFF62F91D197ACC00EB2866 /* insignia29.png */,
+				7AFF62FA1D197ACC00EB2866 /* insignia3.png */,
+				7AFF62FB1D197ACC00EB2866 /* insignia30.png */,
+				7AFF62FC1D197ACC00EB2866 /* insignia31.png */,
+				7AFF62FD1D197ACC00EB2866 /* insignia32.png */,
+				7AFF62FE1D197ACC00EB2866 /* insignia33.png */,
+				7AFF62FF1D197ACC00EB2866 /* insignia34.png */,
+				7AFF63001D197ACC00EB2866 /* insignia35.png */,
+				7AFF63011D197ACC00EB2866 /* insignia36.png */,
+				7AFF63021D197ACC00EB2866 /* insignia37.png */,
+				7AFF63031D197ACC00EB2866 /* insignia38.png */,
+				7AFF63041D197ACC00EB2866 /* insignia39.png */,
+				7AFF63051D197ACC00EB2866 /* insignia4.png */,
+				7AFF63061D197ACC00EB2866 /* insignia40.png */,
+				7AFF63071D197ACC00EB2866 /* insignia41.png */,
+				7AFF63081D197ACC00EB2866 /* insignia42.png */,
+				7AFF63091D197ACC00EB2866 /* insignia43.png */,
+				7AFF630A1D197ACC00EB2866 /* insignia44.png */,
+				7AFF630B1D197ACC00EB2866 /* insignia45.png */,
+				7AFF630C1D197ACC00EB2866 /* insignia46.png */,
+				7AFF630D1D197ACC00EB2866 /* insignia47.png */,
+				7AFF630E1D197ACC00EB2866 /* insignia48.png */,
+				7AFF630F1D197ACC00EB2866 /* insignia49.png */,
+				7AFF63101D197ACC00EB2866 /* insignia5.png */,
+				7AFF63111D197ACC00EB2866 /* insignia50.png */,
+				7AFF63121D197ACC00EB2866 /* insignia51.png */,
+				7AFF63131D197ACC00EB2866 /* insignia52.png */,
+				7AFF63141D197ACC00EB2866 /* insignia53.png */,
+				7AFF63151D197ACC00EB2866 /* insignia54.png */,
+				7AFF63161D197ACC00EB2866 /* insignia55.png */,
+				7AFF63171D197ACC00EB2866 /* insignia56.png */,
+				7AFF63181D197ACC00EB2866 /* insignia57.png */,
+				7AFF63191D197ACC00EB2866 /* insignia58.png */,
+				7AFF631A1D197ACC00EB2866 /* insignia59.png */,
+				7AFF631B1D197ACC00EB2866 /* insignia6.png */,
+				7AFF631C1D197ACC00EB2866 /* insignia60.png */,
+				7AFF631D1D197ACC00EB2866 /* insignia61.png */,
+				7AFF631E1D197ACC00EB2866 /* insignia62.png */,
+				7AFF631F1D197ACC00EB2866 /* insignia63.png */,
+				7AFF63201D197ACC00EB2866 /* insignia64.png */,
+				7AFF63211D197ACC00EB2866 /* insignia65.png */,
+				7AFF63221D197ACC00EB2866 /* insignia66.png */,
+				7AFF63231D197ACC00EB2866 /* insignia67.png */,
+				7AFF63241D197ACC00EB2866 /* insignia68.png */,
+				7AFF63251D197ACC00EB2866 /* insignia69.png */,
+				7AFF63261D197ACC00EB2866 /* insignia7.png */,
+				7AFF63271D197ACC00EB2866 /* insignia70.png */,
+				7AFF63281D197ACC00EB2866 /* insignia71.png */,
+				7AFF63291D197ACC00EB2866 /* insignia72.png */,
+				7AFF632A1D197ACC00EB2866 /* insignia73.png */,
+				7AFF632B1D197ACC00EB2866 /* insignia74.png */,
+				7AFF632C1D197ACC00EB2866 /* insignia75.png */,
+				7AFF632D1D197ACC00EB2866 /* insignia76.png */,
+				7AFF632E1D197ACC00EB2866 /* insignia77.png */,
+				7AFF632F1D197ACC00EB2866 /* insignia78.png */,
+				7AFF63301D197ACC00EB2866 /* insignia79.png */,
+				7AFF63311D197ACC00EB2866 /* insignia8.png */,
+				7AFF63321D197ACC00EB2866 /* insignia80.png */,
+				7AFF63331D197ACC00EB2866 /* insignia81.png */,
+				7AFF63341D197ACC00EB2866 /* insignia82.png */,
+				7AFF63351D197ACC00EB2866 /* insignia83.png */,
+				7AFF63361D197ACC00EB2866 /* insignia84.png */,
+				7AFF63371D197ACC00EB2866 /* insignia85.png */,
+				7AFF63381D197ACC00EB2866 /* insignia86.png */,
+				7AFF63391D197ACC00EB2866 /* insignia87.png */,
+				7AFF633A1D197ACC00EB2866 /* insignia88.png */,
+				7AFF633B1D197ACC00EB2866 /* insignia89.png */,
+				7AFF633C1D197ACC00EB2866 /* insignia9.png */,
+			);
+			path = fst_animation;
+			sourceTree = "<group>";
+		};
+		7AFF63981D19947B00EB2866 /* medal */ = {
+			isa = PBXGroup;
+			children = (
+				7AFF63991D19947B00EB2866 /* medal1.png */,
+				7AFF639A1D19947B00EB2866 /* medal1@2x.png */,
+				7AFF639B1D19947B00EB2866 /* medal1@3x.png */,
+				7AFF639C1D19947B00EB2866 /* medal2.png */,
+				7AFF639D1D19947B00EB2866 /* medal2@2x.png */,
+				7AFF639E1D19947B00EB2866 /* medal2@3x.png */,
+			);
+			path = medal;
+			sourceTree = "<group>";
+		};
+		7AFF639F1D19947B00EB2866 /* badges */ = {
+			isa = PBXGroup;
+			children = (
+				7AFF63A01D19947B00EB2866 /* badge1.png */,
+				7AFF63A11D19947B00EB2866 /* badge2.png */,
+				7AFF63A21D19947B00EB2866 /* badge3.png */,
+				7AFF63A31D19947B00EB2866 /* badge4.png */,
+			);
+			path = badges;
 			sourceTree = "<group>";
 		};
 		FC5DF69F7631A40EC96CB394 /* Frameworks */ = {
@@ -658,136 +680,135 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AFF63861D197ACC00EB2866 /* insignia76.png in Resources */,
+				7AFF63681D197ACC00EB2866 /* insignia49.png in Resources */,
+				7AFF635D1D197ACC00EB2866 /* insignia39.png in Resources */,
+				7AFF638B1D197ACC00EB2866 /* insignia80.png in Resources */,
+				7AFF63A81D19947B00EB2866 /* medal2@2x.png in Resources */,
 				7AC6542A1D188F7700D456B0 /* LaunchScreen.storyboard in Resources */,
-				7A10184F1D193ECF00A57192 /* primer insignia_00059.png in Resources */,
+				7AFF63631D197ACC00EB2866 /* insignia44.png in Resources */,
+				7AFF635E1D197ACC00EB2866 /* insignia4.png in Resources */,
+				7AFF633D1D197ACC00EB2866 /* insignia1.png in Resources */,
+				7AFF63771D197ACC00EB2866 /* insignia62.png in Resources */,
+				7AFF63931D197ACC00EB2866 /* insignia88.png in Resources */,
+				7AFF63581D197ACC00EB2866 /* insignia34.png in Resources */,
+				7AFF637E1D197ACC00EB2866 /* insignia69.png in Resources */,
+				7AFF63651D197ACC00EB2866 /* insignia46.png in Resources */,
 				7ACA5C5A1D18FE9000728030 /* feed.png in Resources */,
 				7A551BBA1D193C4300B95E26 /* pin_placeholder@2x.png in Resources */,
-				7A1018321D193ECF00A57192 /* primer insignia_00030.png in Resources */,
-				7A1018721D193ECF00A57192 /* primer insignia_00094.png in Resources */,
+				7AFF63851D197ACC00EB2866 /* insignia75.png in Resources */,
+				7AFF636C1D197ACC00EB2866 /* insignia52.png in Resources */,
+				7AFF63531D197ACC00EB2866 /* insignia3.png in Resources */,
+				7AFF63821D197ACC00EB2866 /* insignia72.png in Resources */,
+				7AFF635A1D197ACC00EB2866 /* insignia36.png in Resources */,
+				7AFF63611D197ACC00EB2866 /* insignia42.png in Resources */,
+				7AFF63701D197ACC00EB2866 /* insignia56.png in Resources */,
+				7AFF634C1D197ACC00EB2866 /* insignia23.png in Resources */,
+				7AFF63481D197ACC00EB2866 /* insignia2.png in Resources */,
+				7AFF637B1D197ACC00EB2866 /* insignia66.png in Resources */,
+				7AFF63951D197ACC00EB2866 /* insignia9.png in Resources */,
+				7AFF638D1D197ACC00EB2866 /* insignia82.png in Resources */,
 				7AC654491D18B08100D456B0 /* pin.png in Resources */,
-				7A1018851D193ECF00A57192 /* primer insignia_00113.png in Resources */,
-				7A1018391D193ECF00A57192 /* primer insignia_00037.png in Resources */,
-				7A1018441D193ECF00A57192 /* primer insignia_00048.png in Resources */,
-				7A10186F1D193ECF00A57192 /* primer insignia_00091.png in Resources */,
+				7AFF634A1D197ACC00EB2866 /* insignia21.png in Resources */,
 				7A551BB91D193C4300B95E26 /* pin_placeholder.png in Resources */,
-				7A1018351D193ECF00A57192 /* primer insignia_00033.png in Resources */,
-				7A10186C1D193ECF00A57192 /* primer insignia_00088.png in Resources */,
-				7A10186B1D193ECF00A57192 /* primer insignia_00087.png in Resources */,
-				7A1018261D193ECF00A57192 /* primer insignia_00018.png in Resources */,
-				7A1018761D193ECF00A57192 /* primer insignia_00098.png in Resources */,
-				7A10183E1D193ECF00A57192 /* primer insignia_00042.png in Resources */,
-				7A1018271D193ECF00A57192 /* primer insignia_00019.png in Resources */,
-				7A10187C1D193ECF00A57192 /* primer insignia_00104.png in Resources */,
+				7AFF63491D197ACC00EB2866 /* insignia20.png in Resources */,
 				7AC654271D188F7700D456B0 /* Assets.xcassets in Resources */,
-				7A1018511D193ECF00A57192 /* primer insignia_00061.png in Resources */,
+				7AFF637D1D197ACC00EB2866 /* insignia68.png in Resources */,
+				7AFF63691D197ACC00EB2866 /* insignia5.png in Resources */,
+				7AFF636D1D197ACC00EB2866 /* insignia53.png in Resources */,
+				7AFF63AD1D19947B00EB2866 /* badge4.png in Resources */,
+				7AFF63A41D19947B00EB2866 /* medal1.png in Resources */,
 				7ACA5C6C1D19309900728030 /* login-google@3x.jpg in Resources */,
+				7AFF638A1D197ACC00EB2866 /* insignia8.png in Resources */,
+				7AFF63501D197ACC00EB2866 /* insignia27.png in Resources */,
+				7AFF63921D197ACC00EB2866 /* insignia87.png in Resources */,
+				7AFF63761D197ACC00EB2866 /* insignia61.png in Resources */,
+				7AFF63781D197ACC00EB2866 /* insignia63.png in Resources */,
+				7AFF63A61D19947B00EB2866 /* medal1@3x.png in Resources */,
 				7AC6544B1D18B08100D456B0 /* pin@3x.png in Resources */,
-				7A1018621D193ECF00A57192 /* primer insignia_00078.png in Resources */,
-				7A1018771D193ECF00A57192 /* primer insignia_00099.png in Resources */,
-				7A10183A1D193ECF00A57192 /* primer insignia_00038.png in Resources */,
-				7A1018281D193ECF00A57192 /* primer insignia_00020.png in Resources */,
-				7A10182D1D193ECF00A57192 /* primer insignia_00025.png in Resources */,
-				7A1018341D193ECF00A57192 /* primer insignia_00032.png in Resources */,
-				7A10187E1D193ECF00A57192 /* primer insignia_00106.png in Resources */,
-				7A1018421D193ECF00A57192 /* primer insignia_00046.png in Resources */,
-				7A1018881D193ECF00A57192 /* primer insignia_00116.png in Resources */,
-				7A10185F1D193ECF00A57192 /* primer insignia_00075.png in Resources */,
+				7AFF63911D197ACC00EB2866 /* insignia86.png in Resources */,
+				7AFF63411D197ACC00EB2866 /* insignia13.png in Resources */,
+				7AFF63871D197ACC00EB2866 /* insignia77.png in Resources */,
 				7AFF62DC1D194E1E00EB2866 /* profile_bg.png in Resources */,
-				7A10182F1D193ECF00A57192 /* primer insignia_00027.png in Resources */,
-				7A10187F1D193ECF00A57192 /* primer insignia_00107.png in Resources */,
+				7AFF63591D197ACC00EB2866 /* insignia35.png in Resources */,
 				7ACA5C6B1D19309900728030 /* login-mail-bg@3x.jpg in Resources */,
-				7A10182E1D193ECF00A57192 /* primer insignia_00026.png in Resources */,
-				7A1018571D193ECF00A57192 /* primer insignia_00067.png in Resources */,
+				7AFF634E1D197ACC00EB2866 /* insignia25.png in Resources */,
+				7AFF63881D197ACC00EB2866 /* insignia78.png in Resources */,
 				7AC654221D188F7700D456B0 /* Main.storyboard in Resources */,
-				7A10182B1D193ECF00A57192 /* primer insignia_00023.png in Resources */,
+				7AFF635B1D197ACC00EB2866 /* insignia37.png in Resources */,
 				7ACA5C581D18FE9000728030 /* map@2x.png in Resources */,
-				7A1018431D193ECF00A57192 /* primer insignia_00047.png in Resources */,
-				7A1018561D193ECF00A57192 /* primer insignia_00066.png in Resources */,
+				7AFF63971D19878800EB2866 /* bgAlert.jpg in Resources */,
 				7A551BB51D19352600B95E26 /* camera_icon@3x.png in Resources */,
+				7AFF63471D197ACC00EB2866 /* insignia19.png in Resources */,
+				7AFF63731D197ACC00EB2866 /* insignia59.png in Resources */,
+				7AFF63AC1D19947B00EB2866 /* badge3.png in Resources */,
+				7AFF63831D197ACC00EB2866 /* insignia73.png in Resources */,
+				7AFF633F1D197ACC00EB2866 /* insignia11.png in Resources */,
 				7ACA5C5B1D18FE9000728030 /* feed@2x.png in Resources */,
-				7A1018791D193ECF00A57192 /* primer insignia_00101.png in Resources */,
-				7A1018291D193ECF00A57192 /* primer insignia_00021.png in Resources */,
-				7A1018701D193ECF00A57192 /* primer insignia_00092.png in Resources */,
-				7A10185A1D193ECF00A57192 /* primer insignia_00070.png in Resources */,
-				7A10184E1D193ECF00A57192 /* primer insignia_00058.png in Resources */,
-				7A1018531D193ECF00A57192 /* primer insignia_00063.png in Resources */,
+				7AFF63521D197ACC00EB2866 /* insignia29.png in Resources */,
 				7ACA5C6E1D19309900728030 /* login-email@3x.jpg in Resources */,
-				7A1018631D193ECF00A57192 /* primer insignia_00079.png in Resources */,
-				7A1018831D193ECF00A57192 /* primer insignia_00111.png in Resources */,
-				7A1018741D193ECF00A57192 /* primer insignia_00096.png in Resources */,
-				7A10186E1D193ECF00A57192 /* primer insignia_00090.png in Resources */,
-				7A1018861D193ECF00A57192 /* primer insignia_00114.png in Resources */,
-				7A10183F1D193ECF00A57192 /* primer insignia_00043.png in Resources */,
+				7AFF63441D197ACC00EB2866 /* insignia16.png in Resources */,
+				7AFF634D1D197ACC00EB2866 /* insignia24.png in Resources */,
+				7AFF63751D197ACC00EB2866 /* insignia60.png in Resources */,
 				7ACA5C571D18FE9000728030 /* map.png in Resources */,
-				7A10185B1D193ECF00A57192 /* primer insignia_00071.png in Resources */,
-				7A10182C1D193ECF00A57192 /* primer insignia_00024.png in Resources */,
-				7A1018651D193ECF00A57192 /* primer insignia_00081.png in Resources */,
-				7A10186A1D193ECF00A57192 /* primer insignia_00086.png in Resources */,
-				7A1018381D193ECF00A57192 /* primer insignia_00036.png in Resources */,
-				7A1018811D193ECF00A57192 /* primer insignia_00109.png in Resources */,
-				7A1018641D193ECF00A57192 /* primer insignia_00080.png in Resources */,
-				7A10187A1D193ECF00A57192 /* primer insignia_00102.png in Resources */,
+				7AFF63941D197ACC00EB2866 /* insignia89.png in Resources */,
+				7AFF638C1D197ACC00EB2866 /* insignia81.png in Resources */,
+				7AFF63561D197ACC00EB2866 /* insignia32.png in Resources */,
 				7AC6544A1D18B08100D456B0 /* pin@2x.png in Resources */,
-				7A1018551D193ECF00A57192 /* primer insignia_00065.png in Resources */,
-				7A1018541D193ECF00A57192 /* primer insignia_00064.png in Resources */,
-				7A10185C1D193ECF00A57192 /* primer insignia_00072.png in Resources */,
 				7ACA5C6F1D19309900728030 /* bg-login@3x.png in Resources */,
-				7A10185E1D193ECF00A57192 /* primer insignia_00074.png in Resources */,
-				7A10185D1D193ECF00A57192 /* primer insignia_00073.png in Resources */,
-				7A10187B1D193ECF00A57192 /* primer insignia_00103.png in Resources */,
-				7A1018711D193ECF00A57192 /* primer insignia_00093.png in Resources */,
-				7A1018501D193ECF00A57192 /* primer insignia_00060.png in Resources */,
-				7A10182A1D193ECF00A57192 /* primer insignia_00022.png in Resources */,
-				7A10183B1D193ECF00A57192 /* primer insignia_00039.png in Resources */,
-				7A1018471D193ECF00A57192 /* primer insignia_00051.png in Resources */,
-				7A1018301D193ECF00A57192 /* primer insignia_00028.png in Resources */,
-				7A10186D1D193ECF00A57192 /* primer insignia_00089.png in Resources */,
-				7A1018331D193ECF00A57192 /* primer insignia_00031.png in Resources */,
-				7A1018681D193ECF00A57192 /* primer insignia_00084.png in Resources */,
-				7A1018661D193ECF00A57192 /* primer insignia_00082.png in Resources */,
-				7A10184A1D193ECF00A57192 /* primer insignia_00054.png in Resources */,
-				7A10184B1D193ECF00A57192 /* primer insignia_00055.png in Resources */,
-				7A1018871D193ECF00A57192 /* primer insignia_00115.png in Resources */,
 				7A551BBB1D193C4300B95E26 /* pin_placeholder@3x.png in Resources */,
-				7A10184D1D193ECF00A57192 /* primer insignia_00057.png in Resources */,
-				7A1018521D193ECF00A57192 /* primer insignia_00062.png in Resources */,
-				7A10187D1D193ECF00A57192 /* primer insignia_00105.png in Resources */,
-				7A1018361D193ECF00A57192 /* primer insignia_00034.png in Resources */,
-				7A1018781D193ECF00A57192 /* primer insignia_00100.png in Resources */,
-				7A1018591D193ECF00A57192 /* primer insignia_00069.png in Resources */,
-				7A1018841D193ECF00A57192 /* primer insignia_00112.png in Resources */,
-				7A1018311D193ECF00A57192 /* primer insignia_00029.png in Resources */,
-				7A1018691D193ECF00A57192 /* primer insignia_00085.png in Resources */,
+				7AFF63721D197ACC00EB2866 /* insignia58.png in Resources */,
+				7AFF63AF1D19A33400EB2866 /* Logo.png in Resources */,
+				7AFF63A91D19947B00EB2866 /* medal2@3x.png in Resources */,
 				7ACA5C6D1D19309900728030 /* login-facebook@3x.jpg in Resources */,
+				7AFF63401D197ACC00EB2866 /* insignia12.png in Resources */,
+				7AFF63811D197ACC00EB2866 /* insignia71.png in Resources */,
+				7AFF637F1D197ACC00EB2866 /* insignia7.png in Resources */,
+				7AFF63791D197ACC00EB2866 /* insignia64.png in Resources */,
+				7AFF63741D197ACC00EB2866 /* insignia6.png in Resources */,
+				7AFF63431D197ACC00EB2866 /* insignia15.png in Resources */,
+				7AFF63461D197ACC00EB2866 /* insignia18.png in Resources */,
 				7AC6544D1D18B36000D456B0 /* GoogleService-Info.plist in Resources */,
-				7A1018251D193ECF00A57192 /* primer insignia_00017.png in Resources */,
-				7A1018581D193ECF00A57192 /* primer insignia_00068.png in Resources */,
-				7A1018451D193ECF00A57192 /* primer insignia_00049.png in Resources */,
-				7A10183C1D193ECF00A57192 /* primer insignia_00040.png in Resources */,
-				7A1018411D193ECF00A57192 /* primer insignia_00045.png in Resources */,
-				7A1018491D193ECF00A57192 /* primer insignia_00053.png in Resources */,
-				7A1018671D193ECF00A57192 /* primer insignia_00083.png in Resources */,
 				7ACA5C541D18FE9000728030 /* profile.png in Resources */,
-				7A1018461D193ECF00A57192 /* primer insignia_00050.png in Resources */,
-				7A1018751D193ECF00A57192 /* primer insignia_00097.png in Resources */,
-				7A1018481D193ECF00A57192 /* primer insignia_00052.png in Resources */,
-				7A1018371D193ECF00A57192 /* primer insignia_00035.png in Resources */,
+				7AFF63421D197ACC00EB2866 /* insignia14.png in Resources */,
+				7AFF63AB1D19947B00EB2866 /* badge2.png in Resources */,
 				7ACA5C551D18FE9000728030 /* profile@2x.png in Resources */,
-				7A1018611D193ECF00A57192 /* primer insignia_00077.png in Resources */,
+				7AFF63451D197ACC00EB2866 /* insignia17.png in Resources */,
+				7AFF63901D197ACC00EB2866 /* insignia85.png in Resources */,
+				7AFF636B1D197ACC00EB2866 /* insignia51.png in Resources */,
+				7AFF634B1D197ACC00EB2866 /* insignia22.png in Resources */,
+				7AFF63841D197ACC00EB2866 /* insignia74.png in Resources */,
+				7AFF63AA1D19947B00EB2866 /* badge1.png in Resources */,
+				7AFF63511D197ACC00EB2866 /* insignia28.png in Resources */,
+				7AFF638E1D197ACC00EB2866 /* insignia83.png in Resources */,
+				7AFF63661D197ACC00EB2866 /* insignia47.png in Resources */,
+				7AFF633E1D197ACC00EB2866 /* insignia10.png in Resources */,
+				7AFF63671D197ACC00EB2866 /* insignia48.png in Resources */,
+				7AFF636F1D197ACC00EB2866 /* insignia55.png in Resources */,
+				7AFF63891D197ACC00EB2866 /* insignia79.png in Resources */,
 				7ACA5C5C1D18FE9000728030 /* feed@3x.png in Resources */,
-				7A1018231D193ECF00A57192 /* primer insignia_00015.png in Resources */,
-				7A1018821D193ECF00A57192 /* primer insignia_00110.png in Resources */,
-				7A1018241D193ECF00A57192 /* primer insignia_00016.png in Resources */,
 				7A551BB41D19352600B95E26 /* camera_icon@2x.png in Resources */,
-				7A1018601D193ECF00A57192 /* primer insignia_00076.png in Resources */,
-				7A1018731D193ECF00A57192 /* primer insignia_00095.png in Resources */,
-				7A10183D1D193ECF00A57192 /* primer insignia_00041.png in Resources */,
-				7A1018401D193ECF00A57192 /* primer insignia_00044.png in Resources */,
+				7AFF635F1D197ACC00EB2866 /* insignia40.png in Resources */,
 				7A551BB31D19352600B95E26 /* camera_icon.png in Resources */,
+				7AFF63601D197ACC00EB2866 /* insignia41.png in Resources */,
+				7AFF63711D197ACC00EB2866 /* insignia57.png in Resources */,
+				7AFF636A1D197ACC00EB2866 /* insignia50.png in Resources */,
+				7AFF63551D197ACC00EB2866 /* insignia31.png in Resources */,
+				7AFF635C1D197ACC00EB2866 /* insignia38.png in Resources */,
+				7AFF63621D197ACC00EB2866 /* insignia43.png in Resources */,
 				7ACA5C591D18FE9000728030 /* map@3x.png in Resources */,
-				7A1018801D193ECF00A57192 /* primer insignia_00108.png in Resources */,
+				7AFF636E1D197ACC00EB2866 /* insignia54.png in Resources */,
+				7AFF63A51D19947B00EB2866 /* medal1@2x.png in Resources */,
+				7AFF637A1D197ACC00EB2866 /* insignia65.png in Resources */,
 				7ACA5C561D18FE9000728030 /* profile@3x.png in Resources */,
-				7A10184C1D193ECF00A57192 /* primer insignia_00056.png in Resources */,
+				7AFF63801D197ACC00EB2866 /* insignia70.png in Resources */,
+				7AFF63641D197ACC00EB2866 /* insignia45.png in Resources */,
+				7AFF63A71D19947B00EB2866 /* medal2.png in Resources */,
+				7AFF637C1D197ACC00EB2866 /* insignia67.png in Resources */,
+				7AFF63541D197ACC00EB2866 /* insignia30.png in Resources */,
+				7AFF638F1D197ACC00EB2866 /* insignia84.png in Resources */,
+				7AFF634F1D197ACC00EB2866 /* insignia26.png in Resources */,
+				7AFF63571D197ACC00EB2866 /* insignia33.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -860,12 +881,15 @@
 				7AC654421D189FD200D456B0 /* MapViewController.swift in Sources */,
 				7AC6541D1D188F7700D456B0 /* AppDelegate.swift in Sources */,
 				7A10188A1D193F7C00A57192 /* BadgeAnimation.swift in Sources */,
+				7AFF62E01D1968BC00EB2866 /* HeaderProfileTableViewCell.swift in Sources */,
 				7A59707D1D18C6FC00BAF6C9 /* NewReportViewController.swift in Sources */,
 				7ACA5C631D19235600728030 /* FeedTableViewController.swift in Sources */,
 				7AC654531D18B7AA00D456B0 /* GenericTabBarViewController.swift in Sources */,
 				7AFF62D91D1947BA00EB2866 /* ProfileViewController.swift in Sources */,
 				7ACA5C651D19244300728030 /* ReportTableViewCell.swift in Sources */,
+				7AFF62E21D1968D800EB2866 /* BadgesTableViewCell.swift in Sources */,
 				7AC6544F1D18B69900D456B0 /* MapViewModel.swift in Sources */,
+				7AFF62DE1D19684C00EB2866 /* FriendTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

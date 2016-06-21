@@ -17,13 +17,18 @@ class NewReportViewController: UIViewController {
     @IBOutlet weak var scrollContainer: UIScrollView!
     @IBOutlet weak var map: MGLMapView!
     @IBOutlet weak var txtTitle: UITextField!
-    @IBOutlet weak var txtDescription: RSKPlaceholderTextView!
+    @IBOutlet weak var txtCategory: UITextField!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         self.navigationBar.translucent  = false
         self.navigationBar.tintColor    = UIColor.whiteColor()
         self.navigationBar.barTintColor = UIColor(red:0.35, green:0.31, blue:0.38, alpha:1.00)
+        
+        self.txtTitle.tintColor         = UIColor(red:0.82, green:0.25, blue:0.37, alpha:1.00)
+        self.txtTitle.delegate          = self
+        self.txtCategory.tintColor      = UIColor(red:0.82, green:0.25, blue:0.37, alpha:1.00)
+        self.txtCategory.delegate       = self
     }
     
     override func viewWillAppear(animated: Bool) {
@@ -44,6 +49,7 @@ class NewReportViewController: UIViewController {
     }
     
     @IBAction func cancelReport(sender: AnyObject) {
+        self.view.endEditing(true)
         self.dismissViewControllerAnimated(true, completion: nil)
     }
     
@@ -63,16 +69,28 @@ class NewReportViewController: UIViewController {
                 })
                 })
         }
-        
         self.presentViewController(pickerController, animated: true) {}
     }
     
     @IBAction func PostReport(sender: AnyObject) {
-        
-        print("Reportando???")
-        let anim = BadgeAnimation()
-        anim.center = self.view.center
-        self.view.addSubview(anim)
-        anim.startAnimating()
+        self.view.endEditing(true)
+        let alert = BadgeAlert(frame: self.view.bounds)
+        alert.delegate = self
+        self.view.addSubview(alert)
+        alert.showAlert()
+    }
+}
+
+extension NewReportViewController:BadgeAlertDelegate{
+    func didClose() {
+        self.dismissViewControllerAnimated(true, completion: nil)
+    }
+}
+
+
+extension NewReportViewController:UITextFieldDelegate{
+    func textFieldShouldReturn(textField: UITextField) -> Bool {
+        self.view.endEditing(true)
+        return true
     }
 }

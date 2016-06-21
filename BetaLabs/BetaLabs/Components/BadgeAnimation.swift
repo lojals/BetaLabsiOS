@@ -8,11 +8,59 @@
 
 import UIKit
 
+protocol BadgeAlertDelegate{
+    func didClose()
+}
+
+class BadgeAlert:UIView{
+    private let anim = BadgeAnimation()
+    var delegate:BadgeAlertDelegate!
+    
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        let bg   = UIImageView(image: UIImage(named: "bgAlert.jpg"))
+        bg.frame = self.frame
+        self.addSubview(bg)
+        anim.center = self.center
+        self.addSubview(anim)
+        self.alpha = 0
+    }
+    
+    func showAlert(){
+        UIView.animateWithDuration(0.3, animations: { 
+            self.alpha = 1
+        }) { (finished) in
+            self.anim.startAnimating()
+            NSTimer.scheduledTimerWithTimeInterval(3, target: self, selector: #selector(self.closeAlert), userInfo: nil, repeats: false)
+        }
+    }
+    
+    func closeAlert(){
+        UIView.animateWithDuration(0.3, animations: {
+            self.alpha = 0
+        }) { (finished) in
+            self.removeFromSuperview()
+            self.delegate.didClose()
+        }
+    }
+    
+    required init?(coder aDecoder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+}
+
 class BadgeAnimation: UIImageView {
     init(){
-        super.init(frame: CGRect(x: 0, y: 0, width: 1080, height: 1920))
+        super.init(frame: CGRect(x: 0, y: 0, width: 300, height: 300))
         self.animationRepeatCount = 1
-        self.animationImages = [UIImage(named: "primer insignia_00016.png")!,UIImage(named: "primer insignia_00017.png")!,UIImage(named: "primer insignia_00018.png")!,UIImage(named: "primer insignia_00019.png")!,UIImage(named: "primer insignia_00020.png")!,UIImage(named: "primer insignia_00021.png")!,UIImage(named: "primer insignia_00022.png")!,UIImage(named: "primer insignia_00023.png")!,UIImage(named: "primer insignia_00024.png")!,UIImage(named: "primer insignia_00025.png")!,UIImage(named: "primer insignia_00026.png")!,UIImage(named: "primer insignia_00027.png")!,UIImage(named: "primer insignia_00028.png")!,UIImage(named: "primer insignia_00029.png")!,UIImage(named: "primer insignia_00030.png")!,UIImage(named: "primer insignia_00031.png")!,UIImage(named: "primer insignia_00032.png")!,UIImage(named: "primer insignia_00033.png")!,UIImage(named: "primer insignia_00034.png")!,UIImage(named: "primer insignia_00035.png")!,UIImage(named: "primer insignia_00036.png")!,UIImage(named: "primer insignia_00037.png")!,UIImage(named: "primer insignia_00038.png")!,UIImage(named: "primer insignia_00039.png")!,UIImage(named: "primer insignia_00040.png")!,UIImage(named: "primer insignia_00041.png")!,UIImage(named: "primer insignia_00042.png")!,UIImage(named: "primer insignia_00043.png")!,UIImage(named: "primer insignia_00044.png")!,UIImage(named: "primer insignia_00045.png")!,UIImage(named: "primer insignia_00046.png")!]//,UIImage(named: "primer insignia_00047.png")!,UIImage(named: "primer insignia_00048.png")!,UIImage(named: "primer insignia_00049.png")!,UIImage(named: "primer insignia_00050.png")!,UIImage(named: "primer insignia_00051.png")!,UIImage(named: "primer insignia_00052.png")!,UIImage(named: "primer insignia_00053.png")!,UIImage(named: "primer insignia_00054.png")!,UIImage(named: "primer insignia_00055.png")!,UIImage(named: "primer insignia_00056.png")!,UIImage(named: "primer insignia_00057.png")!,UIImage(named: "primer insignia_00058.png")!,UIImage(named: "primer insignia_00059.png")!,UIImage(named: "primer insignia_00060.png")!,UIImage(named: "primer insignia_00061.png")!,UIImage(named: "primer insignia_00062.png")!,UIImage(named: "primer insignia_00063.png")!,UIImage(named: "primer insignia_00064.png")!,UIImage(named: "primer insignia_00065.png")!,UIImage(named: "primer insignia_00066.png")!,UIImage(named: "primer insignia_00067.png")!,UIImage(named: "primer insignia_00068.png")!,UIImage(named: "primer insignia_00069.png")!,UIImage(named: "primer insignia_00070.png")!,UIImage(named: "primer insignia_00071.png")!,UIImage(named: "primer insignia_00072.png")!,UIImage(named: "primer insignia_00073.png")!,UIImage(named: "primer insignia_00074.png")!,UIImage(named: "primer insignia_00075.png")!,UIImage(named: "primer insignia_00076.png")!,UIImage(named: "primer insignia_00077.png")!,UIImage(named: "primer insignia_00078.png")!,UIImage(named: "primer insignia_00079.png")!,UIImage(named: "primer insignia_00080.png")!,UIImage(named: "primer insignia_00081.png")!,UIImage(named: "primer insignia_00082.png")!,UIImage(named: "primer insignia_00083.png")!,UIImage(named: "primer insignia_00084.png")!,UIImage(named: "primer insignia_00085.png")!,UIImage(named: "primer insignia_00086.png")!,UIImage(named: "primer insignia_00087.png")!,UIImage(named: "primer insignia_00088.png")!,UIImage(named: "primer insignia_00089.png")!,UIImage(named: "primer insignia_00090.png")!,UIImage(named: "primer insignia_00091.png")!,UIImage(named: "primer insignia_00092.png")!,UIImage(named: "primer insignia_00093.png")!,UIImage(named: "primer insignia_00094.png")!,UIImage(named: "primer insignia_00095.png")!,UIImage(named: "primer insignia_00096.png")!,UIImage(named: "primer insignia_00097.png")!,UIImage(named: "primer insignia_00098.png")!,UIImage(named: "primer insignia_00099.png")!,UIImage(named: "primer insignia_00100.png")!,UIImage(named: "primer insignia_00101.png")!,UIImage(named: "primer insignia_00102.png")!,UIImage(named: "primer insignia_00103.png")!,UIImage(named: "primer insignia_00104.png")!,UIImage(named: "primer insignia_00105.png")!,UIImage(named: "primer insignia_00106.png")!,UIImage(named: "primer insignia_00107.png")!,UIImage(named: "primer insignia_00108.png")!,UIImage(named: "primer insignia_00109.png")!,UIImage(named: "primer insignia_00110.png")!,UIImage(named: "primer insignia_00111.png")!,UIImage(named: "primer insignia_00112.png")!,UIImage(named: "primer insignia_00113.png")!,UIImage(named: "primer insignia_00114.png")!,UIImage(named: "primer insignia_00115.png")!,UIImage(named: "primer insignia_00116.png")!]
+        var imgs = [UIImage]()
+        for i in 1...89{
+            if i%2==0{
+                imgs.append(UIImage(named: "insignia\(i)")!)
+            }
+            self.animationImages = imgs
+        }
+        self.animationDuration = 3
     }
     
     required init?(coder aDecoder: NSCoder) {

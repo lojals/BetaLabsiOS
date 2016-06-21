@@ -20,7 +20,7 @@ class DetailReport: UIView {
         self.backgroundColor = UIColor.whiteColor().colorWithAlphaComponent(0.9)
         
         imgReport = UIImageView()
-        imgReport.backgroundColor = UIColor.redColor()
+        imgReport.backgroundColor = UIColor(red:0.82, green:0.25, blue:0.37, alpha:1.00)
         imgReport.translatesAutoresizingMaskIntoConstraints = false
         self.addSubview(imgReport)
         
